@@ -13,7 +13,7 @@ The following files have been made available:
 If you use this collection in your own work, please cite it as:
 
 ```
-@inproceedings{scells2017active,
+@inproceedings{scells2017collection,
 	Author = {Scells, Harrisen and Zuccon, Guido and Koopman, Bevan and Deacon, Anthony and Geva, Shlomo and Azzopardi, Leif},
 	Booktitle = {Proceedings of the 40th international ACM SIGIR conference on Research and development in Information Retrieval},
 	Organization = {ACM},
