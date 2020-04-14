@@ -1,4 +1,4 @@
-# SIGIR2017 PICO Query Collection
+# SIGIR2017 SysRev Query Collection
 
 This repository contains the collection of queries for the paper "A Test Collection for Evaluating Retrieval of Studies for Inclusion in Systematic Reviews".
 
