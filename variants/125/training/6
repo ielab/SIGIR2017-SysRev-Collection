@@ -1,0 +1,16 @@
+1. exp ORTHODONTICS/
+2. orthodontic$.mp.
+3. or/1-2
+4. (retention or retain$).mp.
+5. (stabilise$ or stabilize$).mp.
+6. (fraenectom$ or frenectom$).mp.
+7. (fiberotom$ or fibreotom$).mp.
+8. "interproximal stripping".mp.
+9. pericision.mp.
+10. reproximat$.mp.
+11. ((gingiv$ or periodont$).mp. adj4 surg$).mp.
+12. (retain or retention).mp.
+13. 11 and 12
+14. or/4-10
+15. 13 or 14
+16. 3 and 15

@@ -1,0 +1,101 @@
+1. exp Dietary Fiber/
+2. roughage*.tw.
+3. prebiotic*.tw.
+4. (carbohydrate adj2 polymer*).tw.
+5. ((non-starch or nonstarch).tw. adj (poly-saccharide* or polysaccharide*).tw.)
+6. or/1-5
+7. Diet/
+8. diet*.tw.
+9. consum*.tw.
+10. eat*.tw.
+11. food*.tw.
+12. nutri*.tw.
+13. or/7-12
+14. exp Chitin/
+15. exp Cellulose/
+16. chitin*.tw.
+17. lignin*.tw.
+18. hemicellulose*.tw.
+19. hexosane*.tw.
+20. pentosane*.tw.
+21. xanthan*.tw.
+22. exp Fructans/
+23. fructan*.tw.
+24. inulin*.tw.
+25. polyuronide*.tw.
+26. Pectins/
+27. pectin*.tw.
+28. Alginates/
+29. alginate*.tw.
+30. (alginic adj2 acid*).tw.
+31. Agar/
+32. agar*.tw.
+33. Carrageenan/
+34. carrageen*.tw.
+35. Raffinose/
+36. raffinose*.tw.
+37. Xylose/
+38. xylose*.tw.
+39. polydextrose*.tw.
+40. Lactulose/
+41. lactulose*.tw.
+42. cellulose*.tw.
+43. (fibre* or fiber* or high-fibre* or high-fiber*).tw.
+44. or/14-43
+45. 13 and 44
+46. 6 or 45
+47. exp Cardiovascular Diseases/
+48. cardio*.tw.
+49. cardia*.tw.
+50. heart*.tw.
+51. coronary*.tw.
+52. angina*.tw.
+53. ventric*.tw.
+54. myocard*.tw.
+55. pericard*.tw.
+56. isch?em*.tw.
+57. emboli*.tw.
+58. arrhythmi*.tw.
+59. thrombo*.tw.
+60. atrial fibrillat*.tw.
+61. tachycardi*.tw.
+62. endocardi*.tw.
+63. (sick adj sinus).tw.
+64. exp Stroke/
+65. (stroke or stokes).tw.
+66. cerebrovasc*.tw.
+67. cerebral vascular.tw.
+68. apoplexy.tw.
+69. (brain adj2 accident*).tw.
+70. ((brain* or cerebral or lacunar).tw. adj2 infarct*).tw.
+71. exp Hypertension/
+72. hypertensi*.tw.
+73. peripheral arter* disease*.tw.
+74. ((high or increased or elevated).tw. adj2 blood pressure).tw.
+75. exp Hyperlipidemias/
+76. hyperlipid*.tw.
+77. hyperlip?emia*.tw.
+78. hypercholesterol*.tw.
+79. hypercholester?emia*.tw.
+80. hyperlipoprotein?emia*.tw.
+81. hypertriglycerid?emia*.tw.
+82. exp Arteriosclerosis/
+83. exp Cholesterol/
+84. cholesterol.tw.
+85. "coronary risk factor* ".tw.
+86. Blood Pressure/
+87. blood pressure.tw.
+88. or/47-87
+89. 46 and 88
+90. randomized controlled trial.pt.
+91. controlled clinical trial.pt.
+92. randomized.ab.
+93. placebo.ab.
+94. drug therapy.fs.
+95. randomly.ab.
+96. trial.ab.
+97. groups.ab.
+98. 90 or 91 or 92 or 93 or 94 or 95 or 96 or 97
+99. (humans.sh. not animals/)
+100. 98 and 99
+101. 89 and 100

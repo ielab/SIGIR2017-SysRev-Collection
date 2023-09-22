@@ -1,0 +1,19 @@
+1 exp Wound Closure Techniques/
+2 exp Sutures/
+3 (closure or close or closing or sutur*).tw.
+4 or/1-3
+5 exp Subcutaneous Tissue/
+6 (((subcutaneous or sub-cutaneous).tw. adj5 (fat or adipose or tissue*).tw.) or superficial fascia or hypdermis).tw.
+7 or/5-6
+8 4 and 7
+9 randomized controlled trial.pt.
+10 controlled clinical trial.pt.
+11 randomized.ab.
+12 placebo.ab.
+13 clinical trials as topic.sh.
+14 randomly.ab.
+15 trial.ti.
+16 or/9-15
+17 (humans not animals).sh.
+18 16 and 17
+19 8 and 18

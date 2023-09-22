@@ -1,0 +1,5 @@
+(exp Adrenergic alpha-Agonists/ or exp Dexmedetomidine/ or exp Clonidine/ or "alpha?2 adrenergic agonist*".af. or (dexmed*or precede* or clonidin* or catapresan* or isoglancon or ST-155).mp.)
+(exp Respiration, Artificial/ or Ventilation/ or ((invasive or intubat* or mechanical or artificial).mp. adj3 (ventilat* or respire*).mp.).mp. or ventilat*.ti,ab.)
+1 and 2
+(((randomized controlled trial or controlled clinical trial).pt. or randomized.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab. or trial.ti.) and (humans not animals).sh.)
+3 and 4

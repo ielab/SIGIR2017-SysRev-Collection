@@ -1,0 +1,29 @@
+1. Randomized Controlled Trial.pt.
+2. Controlled Clinical Trial.pt.
+3. (randomized or randomised).ab,ti.
+4. placebo.ab,ti.
+5. drug therapy.fs.
+6. randomly.ab,ti.
+7. trial.ab,ti.
+8. groups.ab,ti.
+9. 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8
+10. (humans.sh. not animals/)
+11. 9 and 10
+12. exp Onchocerciasis/
+13. exp Onchocerca/
+14. exp Microfilaria/
+15. (Onchocerc* or Oncocerc*).tw.
+16. (river adj2 blindness).tw.
+17. (Robles* disease or "O volvulus" or volvulosis or craw-craw or sowdah).tw.
+18. or/12-17
+19. exp Ivermectin/
+20. (Ivermec* or Ivermek* or Ivomec* or "Ablaze-IM" or "ABZ Plus" or "Albacos-IR" or "Albosym-IR" or Alvect or "Anthel-UP" or "Ariban Plus" or Ascapil or "Bandy Plus" or "Benrod-I" or Benzole or Cardomec or "Dermoper IV" or Dermopero or Detebencil or Diapec or Ectin or Ectover or "Elect-A" or Epimek or Eqvalan or Eqvalen or "Eris Plus" or "Getrid-I" or "Hymin Plus" or Ifact or Imectin or Ivecop or "Ivecop-AB" or Ivercid or "Ivercid-A" or Ivermin or Iversan or "Iver-Sol" or Iverstar or Ivertal or Iverx or Iverzole or Ivexterm or Ivor or Ivoral or Ivori or Kaonol or Kidi or Kilox or Leverctin or Macbi or Maikeding or Mectin or Mectizan or Mediderm or "MK 933" or MK933 or Networm or Oramec or Plurimec or Quamox or "Quanox Gotas" or Revectina or Sanifer or Securo or Simpiox or Sklice or Stromectol or Vermectil or Vermectin or Vermokill or Yvermil).tw.
+21. 70288-86-7.rn.
+22. or/19-21
+23. exp Doxycycline/
+24. (Abadox or Abraxil or "Acnedox-LB" or Actidox or Adoxa or "Ai Rui De An" or "Aknefug Doxy" or "Ak-Ramycin" or "Ak-Ratabs" or Aliudox or Alodox or "Alpha 6 Deoxyoxytetracycline" or "Alpha-6-Deoxyoxytetracycline" or Ambrodoxy or "Ambroxol AL comp" or "Ambroxol comp" or "Amdox-Puren" or Amermycin or Anfadox or "Antodox Apidox" or Apociclina or Apodoxin or Apodoxy or "Apo-Doxy" or Apprilon or Atridox or "Avidox-LB" or "Avidox-OZ" or "Avidox-SP" or Avidoxy or "Azudoxat-T" or Bactidox or "Bidox-DT" or Biocin or Biodoxi or Bioximicina or "BMY 28689" or BMY28689 or "BU 3839T" or "Chemedox-HT" or Ciclidoxan or Clifordin or Codox or Cyclodox).tw.
+25. (Dedoxyn or Dentarec or Dobid or Docdoxyc or Docyl or "Doksiciklinas monohidratas" or Doksisiklin or Doksisykliini or Doksisykliinimonohydraatti or Doksycyklina or "Dom-Doxycycline" or Doranbax or Doryx or Dosyklin or Dotur or Doxacin or Doxakne or Doxat or Doxibiot or Doxiciclina or Doxiciklin or Doxicip or Doxicor or Doxilegrand or Doxilina or Doximed or Doxina or Doxipil or Doxitab or Doxithal or Doxitidin or Doxitin or "Dox-M DT" or "Dox-M ST" or "Dox-M TZ" or "Dox-M-A" or "Dox-M-OZ" or "Doxodin-TR" or Doxt or Doxy or "Doxy-1 L-DR Forte" or "Doxy-100" or Doxybene or Doxycap or Doxycin or Doxycline or Doxycyclin or Doxycycline or Doxycyclinum or "Doxycyklin monohydrate" or Doxycyklinmonohydrat or Doxyderma or Doxydoc or Doxyferm or Doxyguard or Doxyhexal or "Doxy-HP" or Doxylan or Doxyleb or Doxylin or "Doxylin-DT" or "Doxylin-TZ" or Doxylis or "Doxy-M" or Doxyman or Doxymerck or Doxymono or Doxymycin or "Doxy-N-Tablinen" or Doxypalu or Doxyprotect or "Doxyratio M" or Doxyremed or Doxyric or Doxysol or Doxystad or Doxytab or "Doxy-Tabs" or Doxytop or "Doxy-Wolff" or Dumoxin or Duradox or Duradoxal or "DX-24").tw.
+26. (Efracea or Emdox or "Emdox-TZ" or Frakas or Geeox or Ginadox or "Glodox-LB" or Granudoxy or "GS-3065" or Hydramycin or Ibimycin or Idocyklin or Ivamycin or Jenacyclin or LAA or Lentomyk or Lupidox or Madoxy or "Martidox-M" or "M-Dox" or Microdox or Minicycline or Monodox or Morgidox or "Nab-DT" or Nee or Novadox or "Novo-Doxylin" or Novum or Nudoxy or NutriDox or Ocudox or Oracea or Oraxyl or Oraycea or Periosan or Periostat or "PHL-Doxycycline" or Plemex or "PMS-Doxycycline" or Pondoxcycline or Randoclin or Remycin or Sigadoxin or Supracyclin or Supracycline or Synvibra or "Tasmacyclin Akne" or Tetradox or Tolexine or Tremesal or Unidox or "Vibra Tabs" or Vibradox or Vibradoxin or Vibramicina or Vibramycin or Vibramycine or "Vibra-S" or Vibratab or "Vibra-Tabs" or Vibravenos or Vivradoxil or Xedocine).tw.
+27. 23 or 24 or 25 or 26
+28. 22 or 27
+29. 11 and 18 and 28

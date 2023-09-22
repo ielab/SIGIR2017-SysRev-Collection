@@ -1,0 +1,67 @@
+1 randomized controlled trial.pt.
+2 controlled clinical trial.pt.
+3 randomized.ab.
+4 placebo.ab.
+5 drug therapy.fs.
+6 randomly.ab.
+7 trial.ab.
+8 groups.ab.
+9 or/1-8
+10 (humans.sh. not animals/)
+11 9 and 10
+12 polyneuropathies/
+13 muscle Weakness/
+14 rhabdomyolysis/
+15 quadriplegia/
+16 paresis/
+17 neuromuscular manifestation$1.tw.
+18 (polyneuropath$ or myopath$).tw.
+19 polyneuromyopath$.tw.
+20 neuromuscular disorder$.tw.
+21 neuromuscular disease$.tw.
+22 paresis.tw.
+23 quadriplegia.tw.
+24 weakness.tw.
+25 neuromyopath$.tw.
+26 motor syndrome.tw.
+27 muscle function.tw.
+28 muscle strength/
+29 (muscle strength or respiratory failure).tw.
+30 or/12-29
+31 intensive Care/
+32 critical Illness/
+33 intensive care.tw.
+34 critical$ ill$.tw.
+35 ventilator weaning/
+36 respiration, artificial/
+37 or/31-36
+38 therapeutics/
+39 (enteral nutrition/ or enter$ feed$.tw. or enter$ nutrition.tw.)
+40 (parenteral nutrition/ or parenter$ feed$.tw. or parenter$ nutrition.tw.)
+41 (glucocorticoids/ or glucocorticoids.tw.)
+42 (exercise therapy/ or kinesiotherap$.tw.)
+43 diet therapy/
+44 pc.fs.
+45 rh.fs.
+46 (therapies investigational/ or experimental therap$.tw. or investigational therap$.tw.)
+47 (amino acids/ or amino acids.tw.)
+48 (arginine/ or arginine.tw. or arg.tw.)
+49 (glutamine/ or glutamine.tw. or glu.tw.)
+50 (antioxidants/ or antioxidant$.tw. or anti oxidant$.tw.)
+51 (acetylcysteine/ or n-acetylcycteine.tw. or NAC.tw. or glutathione.tw.)
+52 (growth hormone/ or growth hormone.tw. or GH.tw.)
+53 (androgens/ or androgen$.tw. or testosterone.tw. or oxandrolone.tw.)
+54 (Insulin-Like Growth Factor I/ or insulin-like growth factor.tw. or igf-1.tw.)
+55 (immunoglobulins/ or immunoglobulin$.tw.)
+56 (insulin/ or insulin.tw.)
+57 iit.mp.
+58 (insulin adj5 therapy).tw.
+59 (insulin adj5 treatment).tw.
+60 (physical therapy modalities/ or physiotherap$.tw. or physical therap$.tw.)
+61 (electric stimulation therapy/ or electrostimulation.mp. or (electric$ adj2 stimulation).tw.)
+62 (rehabilitation.tw. or rehabilitation/)
+63 breathing exercises/
+64 breathing exercise$.tw.
+65 magnesium.mp.
+66 or/38-65
+67 11 and 30 and 37 and 66

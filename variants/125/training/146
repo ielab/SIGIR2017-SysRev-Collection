@@ -1,0 +1,93 @@
+1. exp Dementia/
+2. Delirium/
+3. Wernicke Encephalopathy/
+4. Delirium, Dementia, Amnestic, Cognitive Disorders/
+5. dement*.
+6. alzheimer*.mp.
+7. (lewy* adj2 bod*).mp.
+8. deliri*.mp.
+9. (chronic adj2 cerebrovascular).mp.
+10. ("organic brain disease" or "organic brain syndrome").mp.
+11. ("normal pressure hydrocephalus" and "shunt*").mp.
+12. "benign senescent forgetfulness".mp.
+13. (cerebr* adj2 deteriorat*).mp.
+14. (cerebral* adj2 insufficient*).mp.
+15. (pick* adj2 disease).mp.
+16. (or jcd or cjd).mp.
+17. huntington*.mp.
+18. binswanger*.mp.
+19. korsako*.mp.
+20. or/1-19
+21. "cognit* impair*".mp.
+22. exp *Cognition Disorders/
+23. MCI.ti,ab.
+24. ACMI.ti,ab.
+25. ARCD.ti,ab.
+26. SMC.ti,ab.
+27. CIND.ti,ab.
+28. BSF.ti,ab.
+29. AAMI.ti,ab.
+30. MD.ti,ab.
+31. LCD.ti,ab.
+32. QD.ti,ab.
+33. AACD.ti,ab.
+34. MNCD.ti,ab.
+35. MCD.ti,ab.
+36. ("N-MCI" or "A-MCI" or "M-MCI").ti,ab.
+37. ((cognit* or memory or cerebr* or mental*).ti,ab. adj3 (declin* or impair* or los* or deteriorat* or degenerat* or complain* or disturb* or disorder*).ti,ab.)
+38. "preclinical AD".mp.
+39. "pre-clinical AD".mp.
+40. ("preclinical alzheimer*" or "pre-clinical alzheimer*").mp.
+41. (aMCI or MCIa).ti,ab.
+42. ("CDR 0.5" or "clinical dementia rating scale 0.5").ti,ab.
+43. ("GDS 3" or "stage 3 GDS").ti,ab.
+44. ("global deterioration scale" and "stage 3").mp.
+45. "Benign senescent forgetfulness".ti,ab.
+46. "mild neurocognit* disorder*".ti,ab.
+47. (prodrom* adj2 dement*).ti,ab.
+48. or/21-47
+49. 20 or 48
+50. depress*.ti,ab.
+51. dysthymi*.ti,ab.
+52. "adjustment disorder*".mp.
+53. "mood disorder*".mp.
+54. "affective disorder*".mp.
+55. "affective symptom*".mp.
+56. anxiety.mp.
+57. anxious.mp.
+58. ?phobi*.mp.
+59. "panic disorder".mp.
+60. BPSD.ti,ab.
+61. "behavioural and psychological symptoms of dementia".mp.
+62. ("neuropsychiatric symptom*" or NPS).mp.
+63. (exp Behavioral Symptoms/ or Psychomotor Agitation/)
+64. Depression/
+65. (Anxiety/ or Anxiety Disorders/)
+66. or/50-65
+67. 49 and 66
+68. (psychotherapy or "cognitive therap*").mp.
+69. "behaviour*".mp.
+70. counselling.ti,ab.
+71. "cognitive analytic therapy".mp.
+72. "interpersonal therap*".mp.
+73. relaxation.mp.
+74. ("non-pharmacological intervention*" or "non-pharmacological treatment*").mp.
+75. "psychodynamic therap*".mp.
+76. (behavi* adj2 therap*).ti,ab.
+77. "rational insight therap*".mp.
+78. "problem-solving therap*".mp.
+79. CBT.ti,ab.
+80. psychosocial.ti,ab.
+81. psycho-social.ti,ab.
+82. (exp Psychotherapy/ or Psychotherapy, Multiple/ or Psychotherapy, Group/ or Psychotherapy, Brief/ or Psychotherapy, Rational-Emotive/)
+83. or/68-82
+84. 67 and 83
+85. randomized controlled trial.pt.
+86. controlled clinical trial.pt.
+87. random*.ab.
+88. trial.ab.
+89. groups.ab.
+90. or/85-89
+91. (humans not animals).sh.
+92. 90 and 91
+93. 84 and 92

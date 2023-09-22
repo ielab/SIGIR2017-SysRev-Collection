@@ -1,0 +1,29 @@
+1. randomized controlled trial.pt.
+2. (randomized or randomised).ab,ti.
+3. placebo.ab,ti.
+4. dt.fs.
+5. randomly.ab,ti.
+6. trial.ab,ti.
+7. groups.ab,ti.
+8. or/1-7
+9. animals/
+10. humans/
+11. 10 not 9
+12. 8 and 11
+13. exp cataract/
+14. cataract extraction/
+15. exp lens crystalline/
+16. exp lenses intraocular/
+17. lens implantation intraocular/
+18. ("intraocular lens$" or "intra ocular lens$" or IOL$).tw.
+19. or/13-18
+20. phacoemulsification/
+21. pha?oemulsif$.tw.
+22. (phaco or phako).tw.
+23. or/20-22
+24. (extracapsular adj2 cataract$).tw.
+25. ("extra capsular" adj2 cataract$).tw.
+26. ECCE.tw.
+27. or/24-26
+28. 19 and 23 and 27
+29. 12 and 28

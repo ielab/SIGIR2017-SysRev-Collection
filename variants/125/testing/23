@@ -1,0 +1,16 @@
+Renal Insufficiency/
+exp Renal Insufficiency, Chronic/
+Kidney Diseases/
+(chronic kidney or chronic renal).tw.
+(CKF or CKD or CRF or CRD).tw.
+(pre-dialy$ or predialy$).tw.
+exp Uremia/
+ur$emi$.tw.
+or/1-8
+exp Anemia/
+(anemia or anaemia).tw.
+or/10-11
+exp Erythropoietin/
+(EPO or darbepoetin$ or epoetin or erythropoietin).tw.
+or/13-14
+and/9,12,15

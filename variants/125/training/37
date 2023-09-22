@@ -1,0 +1,17 @@
+1 exp Ovarian Neoplasms/
+2 (ovar*.mp. adj5 (cancer* or neoplas* or carcinom* or malignan* or tumor* or tumour*).mp.).mp.
+3 1 or 2
+4 exp Surgical Procedures, Operative/
+5 surg*.mp.
+6 surgery.fs.
+7 4 or 5 or 6
+8 (interval or debulk* or cytoreduc* or secondary).mp.
+9 3 and 7 and 8
+10 randomized controlled trial.pt.
+11 controlled clinical trial.pt.
+12 randomized.ab.
+13 randomly.ab.
+14 trial.ab.
+15 groups.ab.
+16 10 or 11 or 12 or 13 or 14 or 15
+17 9 and 16

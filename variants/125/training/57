@@ -1,0 +1,32 @@
+Noise/
+Acoustic Stimulation/
+(hearing loss/ or deafness/ or hearing loss, bilateral/ or hearing loss, conductive/ or hearing loss, functional/ or hearing loss, high-frequency/ or hearing loss, noise-induced/)
+Sound/ (
+1 or 2 or 3 or 4
+Intensive Care, Neonatal/
+intensive care units/ or intensive care units, neonatal/
+6 or 7
+exp Infant, Newborn, Diseases/
+8 or 9
+5 and 10
+("newborn infant (birth to 1 month)" and randomised controlled trial).sh.
+randomised controlled trial.sh.
+("newborn infant (birth to 1 month)" and controlled clinical trial).sh.
+("newborn infant (birth to 1 month)" and clinical trial).sh.
+("newborn infant (birth to 1 month)" and (clinical trial or controlled clinical trial or randomised controlled trial).sh.).sh.
+(clinical trial or controlled clinical trial or randomised controlled trial).sh.
+11 and 12
+11 and 13
+11 not 18
+18 and 5 or 8
+11 and 14
+11 and 15
+23 not 22 or 18
+5 and 16
+25 not 18 or 22 or 23
+26 and 4
+(exp infant, low birth weight/ or infant, premature/)
+5 and 27
+29 and 17
+30 not 18 or 22 or 23 or 25
+27 or 21

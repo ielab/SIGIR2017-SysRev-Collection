@@ -1,0 +1,9 @@
+1 exp Neoplasms/
+2 (malignan* or neoplasm* or cancer* or carcinoma* or tumour* or tumor*).mp. 
+3 1 or 2
+4 Dance Therapy/
+5 Dancing/
+6 (dance or dancing).mp. 
+7 (movement adj therap*).mp. 
+8 4 or 5 or 6 or 7
+9 3 and 8

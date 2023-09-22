@@ -1,0 +1,39 @@
+1 (climacteric or menopaus$).tw.
+2 (postmenopaus$ or perimenopaus$).tw.
+3 vasomotor.tw.
+4 (exp Menopause, Premature/ or exp Menopause/)
+5 exp Climacteric/
+6 exp Perimenopause/
+7 exp Postmenopause/
+8 exp Hot Flashes/
+9 (hot flash$ or hot flush$).tw.
+10 night sweat$.tw.
+11 Nocturnal diaphoresis.tw.
+12 vagina$ dry$.tw.
+13 sexual function$.tw.
+14 sexual satisfaction.tw.
+15 vagina$ atrophy.tw.
+16 or/1-15
+17 (exp Dehydroepiandrosterone Sulfate/ or exp Dehydroepiandrosterone/)
+18 Dehydroepiandrosterone.tw.
+19 DHEA$.tw.
+20 androstenedione.tw.
+21 Prasterone.tw.
+22 dehydroisoandrosterone.tw.
+23 dha sulfate.tw.
+24 androstenolone.tw.
+25 or/17-24
+26 16 and 25
+27 randomized controlled trial.pt.
+28 controlled clinical trial.pt.
+29 randomized.ab.
+30 randomised.ab.
+31 placebo.tw.
+32 clinical trials as topic.sh.
+33 randomly.ab.
+34 trial.ti.
+35 (crossover or cross-over or cross over).tw.
+36 or/27-35
+37 (humans.sh. not animals/)
+38 36 and 37
+39 26 and 38

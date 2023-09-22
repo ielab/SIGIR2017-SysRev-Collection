@@ -1,0 +1,30 @@
+1. randomized controlled trial.pt.
+2. (randomized or randomised).ab,ti.
+3. placebo.ab,ti.
+4. dt.fs.
+5. randomly.ab,ti.
+6. trial.ab,ti.
+7. groups.ab,ti.
+8. or/1-7
+9. exp animals/
+10. exp humans/
+11. 9 not 9 and 10
+12. 8 not 11
+13. exp glaucoma/
+14. exp intraocular pressure/
+15. exp filtering surgery/
+16. trabeculectom$.tw.
+17. sclerostom$.tw.
+18. ((surg$ or filter$ or filtrat$).tw. adj5 glaucoma$).tw.
+19. (surg$ adj5 intra?ocular pressure$).tw.
+20. or/13-19
+21. exp angiogenesis inhibitors/
+22. angiogenesis inducing agents/
+23. endothelial growth factors/
+24. exp vascular endothelial growth factors/
+25. (macugen$ or pegaptanib$ or lucentis$ or rhufab$ or ranibizumab$ or bevacizumab$ or avastin or or aflibercept$).tw.
+26. (anti adj2 VEGF$).tw.
+27. (endothelial adj2 growth adj2 factor$).tw.
+28. or/21-27
+29. 20 and 28
+30. 12 and 29

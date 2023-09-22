@@ -1,0 +1,34 @@
+1. randomized controlled trial.pt.
+2. controlled clinical trial.pt.
+3. randomized controlled trials.sh.
+4. random allocation.sh.
+5. double blind method.sh.
+6. single blind method.sh.
+7. or/1-6
+8. clinical trial.pt.
+9. exp clinical trials/
+10. (clin$ adj25 trial$).ti,ab.
+11. ((singl$ or doubl$ or trebl$ or tripl$).ti,ab. adj25 (blind$ or mask$).ti,ab.)
+12. placebos.sh.
+13. placebo$.ti,ab.
+14. random$.ti,ab.
+15. research design.sh.
+16. or/10-15
+17. comparative study.sh.
+18. exp evaluation studies/
+19. follow up studies.sh.
+20. prospective studies.sh.
+21. (control$ or prospectiv$ or volunteer$).ti,ab.
+22. or/17-21
+23. 7 or 16 or 22
+24. abdomen/su
+25. (abdomin$ or abdomen).ti,ab,sh.
+26. (surgery or operat$).ti,ab,sh.
+27. 25 and 26
+28. 24 or 27
+29. analgesia epidural/
+30. exp anesthesia epidural/
+31. (epidural adj2 (analgesi$ or an?esthe$).ti,ab.).ti,ab.
+32. 29 or 30 or 31
+33. 28 and 32
+34. 23 and 33

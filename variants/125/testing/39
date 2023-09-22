@@ -1,0 +1,24 @@
+1 Pneumonia, Ventilator-Associated/
+2 vap.tw.
+3 exp Pneumonia/
+4 pneumon*.tw.
+5 3 or 4
+6 exp Respiration, Artificial/
+7 exp Ventilators, Mechanical/
+8 (ventilat* or respirat*).tw.
+9 or/6-8
+10 5 and 9
+11 1 or 2 or 10
+12 exp Posture/
+13 posture*.tw.
+14 Patient Positioning/
+15 position*.tw.
+16 Supine Position/
+17 supine*.tw.
+18 (semi-recumbent* or semi-recumbent*).tw.
+19 (semi-reclin* or semireclin*).tw.
+20 (semisupin* or semi-supin*).tw.
+21 half-sitting.tw.
+22 ((head* or bed or backrest).tw. adj5 (elevat* or rais* or inclin* or angle).tw.)
+23 or/12-22
+24 11 and 23

@@ -1,0 +1,34 @@
+1. randomized controlled trial.pt.
+2. controlled clinical trial.pt.
+3. randomized.ab.
+4. placebo.ab.
+5. drug therapy.fs.
+6. randomly.ab.
+7. trial.ab.
+8. groups.ab.
+9. or/1-8
+10. (humans not animals).sh.
+11. 9 and 10
+12. esophag$.mp.
+13. oesophag$.mp.
+14. 12 or 13
+15. Neoplasms/
+16. cancer$.mp.
+17. exp Adenocarcinoma/
+18. carcino$.mp.
+19. exp Carcinoma, Squamous Cell/
+20. or/15-19
+21. 14 and 20
+22. exp Medicine, Chinese Traditional/
+23. (exp Drugs, Chinese Herbal/ or exp Plant Extracts/)
+24. (exp Herbal Medicine/ or exp Plants, Medicinal/)
+25. exp Complementary Therapies/
+26. alternative medicine.ab,ti.
+27. artemisinin.mp.
+28. milkvetch root.mp.
+29. wolfberry fruit.mp.
+30. yam rhizome.mp.
+31. indian bread.mp.
+32. hedyotis.mp.
+33. or/22-32
+34. 11 and 21 and 33

@@ -1,0 +1,51 @@
+1. RANDOMIZED CONTROLLED TRIAL.pt.
+2. CONTROLLED CLINICAL TRIAL.pt.
+3. RANDOMIZED CONTROLLED TRIALS.sh.
+4. RANDOM ALLOCATION.sh.
+5. DOUBLE BLIND METHOD.sh.
+6. SINGLE BLIND METHOD.sh.
+7. or/1-6
+8. (HUMAN.sh. not ANIMALS.sh.)
+9. 7 and 8
+10. CLINICAL TRIAL.pt.
+11. exp CLINICAL TRIALS/
+12. (clin$ adj25 trial$).ti,ab.
+13. ((singl$ or doubl$ or trebl$ or tripl$).ti,ab. adj25 (blind$ or mask$).ti,ab.)
+14. PLACEBOS.sh.
+15. placebo$.ti,ab.
+16. random$.ti,ab.
+17. RESEARCH DESIGN.sh.
+18. or/10-17
+19. 18 and 8
+20. 19 and 9
+21. 9 or 20
+22. Brief intervention$.mp.
+23. Social norms intervention$.mp.
+24. (Social$ adj1 norms$).ti,ab.
+25. (norm$ adj1 feedback$).ti,ab.
+26. (person$ adj1 feedback$).ti,ab.
+27. (individual$ adj1 feedback$).ti,ab.
+28. (computer$ adj1 feedback$).ti,ab.
+29. (market$ adj1 campaign$).ti,ab.
+30. normative$.ti,ab.
+31. or/22-30
+32. Alcohol$.mp.
+33. Alcohol intervention$.mp.
+34. (alcohol$ adj1 use$).ti,ab.
+35. (alcohol$ adj1 abuse$).ti,ab.
+36. (alcohol$ adj1 misuse$).ti,ab.
+37. (binge$ adj1 drink$).ti,ab.
+38. binge drink$.mp.
+39. alcohol use$.mp.
+40. alcohol abuse$.mp.
+41. alcohol misuse$.mp.
+42. (alcohol$ adj1 problems$).ti,ab.
+43. or/32-42
+44. Student$.mp.
+45. (university$ adj1 student$).ti,ab.
+46. (college$ adj1 student$).ti,ab.
+47. education$.mp.
+48. or/44-47
+44. 21 and 31
+45. 43 and 48
+46. 44 or 45

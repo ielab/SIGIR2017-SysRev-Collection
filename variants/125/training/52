@@ -1,0 +1,27 @@
+1 exp "International Classification of Diseases"/
+2 exp "Diagnostic and Statistical Manual of Mental Disorders"/
+3 "Research Diagnostic Criteria".mp.
+4 Feighner.mp.
+5 ICD.mp.
+6 DSM.mp.
+7 RDC.mp.
+8 schneider.mp.
+9 bleuler.mp.
+10 kraepelin.mp.
+11 "international pilot study of schizophrenia".mp.
+12 IPSS.mp.
+13 "new haven schizophrenia index".mp.
+14 NHSI.mp.
+15 "present state examination".mp.
+16 PSE.mp.
+17 "operational criteria".mp.
+18 (operation$ adj3 criteri$).mp.
+19 "Sensitivity and Specificity"/
+20 Diagnosis/
+21 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20
+22 exp Schizophrenia/
+23 schizophren$.mp.
+24 22 or 23
+25 21 and 24
+26 (humans not animals).sh.
+27 25 and 26

@@ -1,0 +1,23 @@
+1 randomized controlled trial.pt.
+2 controlled clinical trial.pt.
+3 randomized.ab.
+4 placebo.ab.
+5 drug therapy.fs.
+6 randomly.ab.
+7 trial.ab.
+8 groups.ab.
+9 or/1-8
+10 (humans.sh. not animals/)
+11 9 and 10
+12 Carpal Tunnel Syndrome.mp. or Carpal Tunnel Syndrome/
+13 (carp$ tunn$ or tunn$ syndrom$ or carp$ syndrom$).mp.
+14 (nerve entrapment or nerve compression or entrapment neuropath$).mp.
+15 median nerve entrapment.mp.
+16 nerve compression syndromes/
+17 or/12-16
+18 endoscop$.mp.
+19 OCTR.mp.
+20 ECTR.mp.
+21 releas$.mp.
+22 or/18-21
+23 11 and 17 and 22

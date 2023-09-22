@@ -1,0 +1,70 @@
+1. exp Dementia/
+2. Dementia, Multi-Infarct/
+3. Dementia, Vascular/
+4. Alzheimer Disease/
+5. Lewy Body Disease/
+6. Delirium/
+7. Huntington Disease/
+8. "Pick Disease of the Brain"/
+9. Kluver-Bucy Syndrome/
+10. Wernicke Encephalopathy/
+11. Creutzfeldt-Jakob Syndrome/
+12. Delirium, Dementia, Amnestic, Cognitive Disorders/
+13. dement*.mp.
+14. Alzheimer*.mp.
+15. (lewy* adj2 bod*).mp.
+16. deliri*.mp.
+17. ((cognit* or memory* or mental*).mp. adj3 (declin* or impair* or los* or deteriorat*).mp.).mp.
+18. (chronic adj2 cerebrovascular).mp.
+19. ("organic brain disease" or "organic brain syndrome").mp.
+20. "supranuclear palsy".mp.
+21. ("normal pressure hydrocephalus" and "shunt*").mp.
+22. "benign senescent forgetfulness".mp.
+23. (cerebr* adj2 deteriorat*).mp.
+24. (cerebral* adj2 insufficient*).mp.
+25. (confusion* or confused).mp.
+26. (pick* adj2 disease).mp.
+27. (creutzfeldt or jcd or cjd).mp.
+28. huntington*.mp.
+29. binswanger*.mp.
+30. korsako*.mp.
+31. (mci or "subjective memory complaint" or "episodic memory").mp.
+32. ("incipient dementia" or "pre-clinical ad" or "pre-clinical alzheimer*").mp.
+33. or/1-32
+34. Patient Care Management/
+35. "Case manag*".ti,ab.
+36. Case Management/
+37. Managed Care Programs/
+38. "Managed care".ti,ab.
+39. "Care pathway".ti,ab.
+40. Outreach.ti,ab.
+41. "Crisis resolution".ti,ab.
+42. Disease Management/
+43. "Disease management".ti,ab.
+44. Intermediate Care Facilities/
+45. Care coordination.ti,ab.
+46. Community mental health.ti,ab.
+47. Community Mental Health Services/
+48. Community Mental Health Centers/
+49. Home Nursing/
+50. Health Services for the Aged/
+51. "Geriatric health service*".ti,ab.
+52. Home Care Services/
+53. Patient Care Team/
+54. Admiral nursing.ti,ab.
+55. ((carer* or caregiver*).mp. adj2 support).mp.
+56. Family-based therapy.ti,ab.
+57. or/34-56
+58. randomized controlled trial.pt.
+59. controlled clinical trial.pt.
+60. (Randomized or randomised).ti,ab.
+61. Randomly.ti,ab.
+62. Comparative Study/
+63. "Interrupted time series".ti,ab.
+64. "ITS design".ti,ab.
+65. Intervention*.ti,ab.
+66. Evaluat*.ti,ab.
+67. Placebo*.ti,ab.
+68. Groups.ti,ab.
+69. or/58-68
+70. 69 and 57 and 33

@@ -1,0 +1,41 @@
+1 randomized controlled trial.pt.
+2 controlled clinical trial.pt.
+3 randomized.ab.
+4 placebo.ab.
+5 drug therapy.fs.
+6 randomly.ab.
+7 trial.ab.
+8 groups.ab.
+9 or/1-8
+10 (humans/ not animals/)
+11 9 and 10
+12 exp enteral nutrition/
+13 (enter$ adj3 feed$).tw.
+14 (enter$ adj3 nutrit$).tw.
+15 or/12-14
+16 exp Intubation, Gastrointestinal/
+17 (nasoenteral$ or naso enteral$).tw.
+18 (esophag$ adj3 intubat$).tw.
+19 (oesophag$ adj3 intubat$).tw.
+20 (duoden$ adj3 intubat$).tw.
+21 (gastrointest$ adj3 intubat$).tw.
+22 (gastric adj3 intubat$).tw.
+23 (esophag$ adj3 catheter$).tw.
+24 (oesophag$ adj3 catheter$).tw.
+25 (duoden$ adj3 catheter$).tw.
+26 (stomach adj3 intubat$).tw.
+27 (stomach adj3 catheter$).tw.
+28 (gastrointest$ adj3 catheter$).tw.
+29 (gastric adj3 catheter$).tw.
+30 exp gastrointestinal motility/
+31 exp gastric emptying/
+32 (stomach adj3 emptying).tw.
+33 (gastric adj3 emptying).tw.
+34 (gastro$ adj3 motili$).tw.
+35 (gastric adj3 motili$).tw.
+36 or/16-35
+37 exp metoclopramide/
+38 (Metoclopramide or Cerucal or 5 Chloro 2 Methoxyprocainamide or Clodilion or Clopra or Del 1267 or Del1267 or Dibertil or Duraclamid or Emenil or Emetard or Emitasol or Encil or Gastrobid or Gastronerton or Gastrosil or Gastrotem or Gastro Timelets or Gastrotimelets or Hyrin or M 813 or M813 or Maxeran or Maxeron or Maxolan or Maxolon or Meclopamide or Meclopramide or Meclopran or Metaclopramide or Methochlopramide or Methoclopramide or Methoclopramine or Metochlopramide or Metoclopamide or Metoclopramid or Metoclopramine or Metoclopranide Hydrochloride or Metaclopromide or Metoclorpramide or Metodopramide or Metopram or Metox or Metpamid or Mygdalon or Neu Sensamide or Octamide or Paspertin or Perinorm or Plasil or Pramidin or Pramin or Primperan or Reclomide or Reglan or Rimetin or Sensamide or Tomid).tw.
+39 or/37-38
+40 15 and 36 and 39
+41 11 and 40

@@ -1,0 +1,25 @@
+1 Patellofemoral Pain Syndrome/
+2 Patella/ or exp Knee Joint/ or Knee/
+3 Arthralgia/ or Pain/
+4 2 and 3
+5 anterior knee pain.tw.
+6 ((patell* or femoropatell* or femoro-patell* or retropatell*).tw. adj2 (pain or syndrome or dysfunction).tw.).tw.
+7 ((lateral compression or lateral facet or lateral pressure or odd facet) adj2 syndrome).tw.
+8 ((chondromalac* or chondropath* or chondrosis).tw. adj2 (knee*1 or patell* or femoropatell* or femoro-patell* or retropatell*).tw.).tw.
+9 Chondromalacia Patellae/
+10 or/1,4-9
+11 exp Exercise Therapy/ or exp Exercise/
+12 (exercis* or strengthen* or stretch* or train* or physiotherapy or physical therap*).tw.
+13 or/11-12
+14 Randomized controlled trial.pt.
+15 Controlled clinical trial.pt.
+16 randomized.ab.
+17 placebo.ab.
+18 Drug therapy.fs.
+19 randomly.ab.
+20 trial.ab.
+21 groups.ab.
+22 or/14-21
+23 (Humans/ not Animals/)
+24 22 and 23
+25 and/10,13,24

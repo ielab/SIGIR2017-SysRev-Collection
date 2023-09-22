@@ -1,0 +1,115 @@
+1 (exp health promotion/ or residence characteristics/)
+2 (community health planning/ or exp community health services/)
+3 (national adj (policy or policies or strateg$ or program$).ti,ab.).ti,ab.
+4 exp mass media/
+5 community networks/
+6 community health centers/
+7 "marketing of health services"/
+8 cities/
+9 rural population/ or rural health/
+10 urban population/
+11 community-institutional relations/
+12 exp environment design/
+13 city planning/
+14 environmental planning.ti,ab.
+15 social environment/
+16 urban health/
+17 social marketing/ or "health education"/
+18 ((state or county or town or city or village or nation*).ti,ab. adj2 (wide or whole or communit*).ti,ab.).ti,ab.
+19 ((combined$ or multiple or multi or multifactorial or partner$).ti,ab. adj2 (program$ or strateg$ or intervention$ or organi?ation$).ti,ab.).ti,ab.
+20 (media intervention* or whole community or community intervention* or community organsai?ation$1).ti,ab.
+21 (community adj2 (design or action or program* or partner$).ti,ab.).ti,ab.
+22 ((health or community or environment*).ti,ab. adj (policy or policies).ti,ab.).ti,ab.
+23 (urban design or "land use policies" or "land use policy").ti,ab.
+24 ((transportation or travel).ti,ab. adj (policy or policies).ti,ab.).ti,ab.
+25 health planning.ti,ab.
+26 ((neighbo?rhood* or city or cities or community).ti,ab. adj2 (development or regeneration or renewal or design* or plan* or polic*).ti,ab.).ti,ab.
+27 (community wide or community setting$ or community group$ or organi?ation$ level$1).ti,ab.
+28 (Communit$ adj2 base$).ti,ab.
+29 ((built environment* or urban environment* or environmental).ti,ab. adj (change* or intervention*).ti,ab.).ti,ab.
+30 (environment$ adj2 infrastructure).ti,ab.
+31 (urban adj2 (regeneration or renewal or plan* or design* or policy or policies or strateg* or program$).ti,ab.).ti,ab.
+32 (urban adj2 (regeneration or renewal or plan* or design* or policy or policies or strateg* or program$).ti,ab.).ti,ab.
+33 social marketing.ti,ab.
+34 ("point of decision" adj3 (stair* or travel*).ti,ab.).ti,ab.
+35 (health counsel* or individual counsel*).ti,ab.
+36 (community adj3 (collaborati* or coalition).ti,ab.).ti,ab.
+37 ((school* or work?place* or employer* or classroom or college).ti,ab. adj2 (strateg$ or program$ or policy or policies).ti,ab.).ti,ab.
+38 ((public or community).ti,ab. adj2 (information or education or campaign or intervention or strateg$ or program$ or policy or policies).ti,ab.).ti,ab.
+39 (policy change* or fiscal change*).ti,ab.
+40 (policy adj3 (interven$ or change or introduce$ or modif$ or alter$).ti,ab.).ti,ab.
+41 physical infrastructure.ti,ab.
+42 ((road or land).ti,ab. adj us*).ti,ab.
+43 (Legislation or legislative).ti,ab.
+44 ((Voluntary or volunteer or charities or charity or non-government or government or "not for profit").ti,ab. adj2 (group$1 or organisation$ or department$1 or club$1).ti,ab.).ti,ab.
+45 or/1-44
+46 exp exercise/
+47 running/
+48 walking/
+49 physical fitness/
+50 swimming/
+51 (fitness adj class*).ti,ab.
+52 gardening/
+53 exp "physical education and training"/
+54 exp dancing/
+55 exp sports/
+56 exp yoga/ or exp fitness centers/ or recreation/ or "play and playthings"/ or exp motor activity/
+57 (fitness adj (regime* or program*).ti,ab.).ti,ab.
+58 cardiorespiratory fitness.ti,ab.
+59 aerobic capacity.ti,ab.
+60 ((moderate or vigorous*).ti,ab. adj activ*).ti,ab.
+61 (led walk* or health walk*).ti,ab.
+62 (physical adj5 (fit* or train* or activ* or endur*).ti,ab.).ti,ab.
+63 (exercis* adj5 (fit* or train* or activ* or endur*).ti,ab.).ti,ab.
+64 ((leisure or fitness) adj5 (centre* or center* or facilit*)).ti,ab.
+65 ((promot* or uptak* or encourag* or increas* or start* or adher* or sustain* or maintain*).ti,ab. adj5 gym*).ti,ab.
+66 ((promot* or uptak* or encourag* or increas* or start* or adher* or sustain* or maintain*).ti,ab. adj5 physical activ*).ti,ab.
+67 ((promot* or uptak* or encourag* or increas* or start* or adher* or sustain* or maintain*).ti,ab. adj5 (circuit* or aqua*).ti,ab.).ti,ab.
+68 ((promot* or uptak* or encourag* or increas* or start* or adher* or sustain* or maintain*).ti,ab. adj5 (exercis* or exertion or keep fit or fitness class or yoga or aerobic*).ti,ab.).ti,ab.
+69 ((decreas* or reduc* or discourag*).ti,ab. adj5 (sedentary or deskbound or "physical* inactiv*").ti,ab.).ti,ab.
+70 sport*3.ti,ab.
+71 walk*3.ti,ab.
+72 running.ti,ab.
+73 jogging.ti,ab.
+74 pilates.ti,ab.
+75 yoga.ti,ab.
+76 ((cycle or cycling).ti,ab. adj5 (school$ or work or workplace or commut$ or travel$ or equipment or facilit$ or rack$1 or store$1 or storing or park$ or friendly or infrastructure).ti,ab.).ti,ab.
+77 bicycl*.ti,ab.
+78 (bike*1 or biking).ti,ab.
+79 (swim*1 or swimming).ti,ab.
+80 (exercis*3 adj5 aerobic*).ti,ab.
+81 rollerblading.ti,ab.
+82 rollerskating.ti,ab.
+83 skating.ti,ab.
+84 exertion*1.ti,ab.
+85 strength training.ti,ab.
+86 resilience training.ti,ab.
+87 weight lifting.tw.
+88 travel mode*1.tw.
+89 (active adj (travel*4 or transportation or commut$).tw.).tw.
+90 (multimodal transportation or alternative transport* or alternative travel*).ti,ab.
+91 recreation*1.ti,ab.
+92 ("use" adj3 stair*).ti,ab.
+93 (pedestrianis* or pedestrianiz*).ti,ab.
+94 or/46-93
+95 randomized controlled trial.pt.
+96 controlled clinical trial.pt.
+97 (randomized or randomised or placebo or randomly or trial).ab.
+98 (random allocation/ or clinical trial/ or single-blind method/ or double-blind method/ or control groups/)
+99 Intervention studies/
+100 evaluation studies/
+101 program evaluation/
+102 Comparative study.pt.
+103 quasi-experiment$.ti,ab.
+104 (pre test or pretest or (posttest or post test).ti,ab.).ti,ab.
+105 trial.ti.
+106 (time adj series).ti,ab.
+107 (pre test or pretest or (posttest or post test).ti,ab.).ti,ab.
+108 ((evaluat$ or intervention or interventional).ti,ab. adj8 (control or controlled or study or program$ or comparison or "before and after" or comparative).ti,ab.)
+109 ((intervention or interventional).ti,ab. adj8 (effect* or evaluat* or outcome*).ti,ab.)
+110 ((process or program*).ti,ab. adj3 (effect* or evaluat*).ti,ab.)
+111 (controlled before or "before and after stud$" or follow up assessment).ti,ab.
+112 or/95-111
+113 45 and 94 and 112
+114 (humans/ not animals/)
+115 113 and 114

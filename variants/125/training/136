@@ -1,0 +1,27 @@
+kidney transplantation/
+exp Hydroxymethylglutaryl-CoA Reductase Inhibitors/
+"hydroxymethylglutaryl-CoA reductase inhibitor$".tw.
+("HMG CoA reductase inhibitor$" or "HMG Co A reductase inhibitor$").tw.
+statin$.tw.
+atorvastatin.tw.
+cerivastatin.tw.
+dalvastatin.tw.
+fluindostatin.tw.
+fluvastatin.tw.
+lovastatin.tw.
+pitavastatin.tw.
+pravastatin.tw.
+rosuvastatin.tw.
+simvastatin.tw.
+meglutol.tw.
+mevinolin$.tw.
+monacolin$.tw.
+Pravachol.tw.
+Lipex.tw.
+Lipitor.tw.
+Zocor.tw.
+Lescol.tw.
+Mevacor.tw.
+Baycol.tw.
+or/2-25
+and/1,26

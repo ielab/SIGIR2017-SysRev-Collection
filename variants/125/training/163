@@ -1,0 +1,42 @@
+1. exp Vitamin D/
+2. exp Cholecalciferol/
+3. (exp ergocalciferols/ or exp dihydrotachysterol/ or exp 25-hydroxyvitamin d 2/)
+4. exp Hydroxycholecalciferols/
+5. vitamin D?.tw,ot.
+6. (cholecalciferol$ or calcifediol$ or calcitriol$ or dihydrotachysterol$ or hydroxyvitamin$ d?).tw,ot.
+7. (alfacalcidol$ or alphacalcidol$ or colecalciferol$).tw,ot.
+8. or/1-7
+9. exp Mortality/
+10. mortality.tw,ot.
+11. mortaliti$.tw,ot.
+12. or/9-11
+13. exp Primary Prevention/
+14. (prevention$ or prevent$).tw,ot.
+15. exp Neoplasm/
+16. (cancer$ or neoplasm$ or tumo?r$).tw,ot.
+17. or/13-16
+18. exp Randomized Controlled Trials as topic/
+19. Randomized Controlled Trial.pt.
+20. exp Controlled Clinical Trials as topic/
+21. Controlled Clinical Trial.pt.
+22. exp Random Allocation/
+23. exp Double-Blind Method/
+24. exp Single-Blind Method/
+25. or/18-24
+26. exp "Review Literature as topic"/
+27. exp Technology Assessment, Biomedical/
+28. exp Meta-analysis as topic/
+29. Meta-analysis.pt.
+30. hta.tw,ot.
+31. (health technology adj6 assessment$).tw,ot.
+32. (meta analy$ or metaanaly$ or meta?analy$).tw,ot.
+33. ((review$ or search$).tw,ot. adj10 (literature$ or medical database$ or medline or pubmed or embase or cochrane or cinahl or psycinfo or psyclit or healthstar or biosis or current content$ or systemat$).tw,ot.).tw,ot.
+34. or/26-33
+35. 25 or 34
+36. 8 and 17 and 35
+37. 8 and 12 and 35
+38 36 or 37
+39. (humans not animals).sh.
+40. 38 and 39
+41. 40 not 39
+42 38 not 41

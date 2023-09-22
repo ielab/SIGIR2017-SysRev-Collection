@@ -1,0 +1,19 @@
+exp PAIN/
+exp PERIPHERAL NERVOUS SYSTEM DISEASES/
+exp SOMATOSENSORY DISORDERS/
+((pain* or discomfort*).mp. adj10 (central or complex or nerv* or neuralg* or neuropath*).mp.).mp.
+((neur* or nerv*).mp. adj6 (compress* or damag*).mp.).mp.
+1 or 2 or 3 or 4 or 5
+Nortriptyline/
+(nortriptyline or Allegron or Aventyl or Noritren or Norpress or Nortrilen or Pamelor or Sensoval).mp.
+7 or 8
+randomized controlled trial.pt.
+controlled clinical trial.pt.
+randomized.ab.
+placebo.ab.
+drug therapy.fs.
+randomly.ab.
+trial.ab.
+groups.ab.
+or/10-17
+6 and 9 and 18

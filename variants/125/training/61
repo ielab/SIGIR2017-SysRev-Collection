@@ -1,0 +1,236 @@
+1. Neck Pain/
+2. exp Brachial Plexus Neuropathies/
+3. (exp neck injuries/ or exp whiplash injuries/)
+4. cervical pain.mp.
+5. neckache.mp.
+6. whiplash.mp.
+7. cervicodynia.mp.
+8. cervicalgia.mp.
+9. brachialgia.mp.
+10. brachial neuritis.mp.
+11. brachial neuralgia.mp.
+12. neck pain.mp.
+13. neck injur*.mp.
+14. brachial plexus neuropath*.mp.
+15. brachial plexus neuritis.mp.
+16. (thoracic outlet syndrome/ or cervical rib syndrome/)
+17. Torticollis/
+18. (exp brachial plexus neuropathies/ or exp brachial plexus neuritis/)
+19. cervico brachial neuralgia.ti,ab.
+20. cervicobrachial neuralgia.ti,ab.
+21. (monoradicul* or monoradicl*).tw.
+22. or/1-21
+23. (exp headache/ and cervic*.tw.)
+24. exp genital diseases, female/
+25. genital disease*.mp.
+26. or/24-25
+27. 23 not 26
+28. 22 or 27
+29. neck/
+30. neck muscles/
+31. exp cervical plexus/
+32. exp cervical vertebrae/
+33. atlanto-axial joint/
+34. atlanto-occipital joint/
+35. Cervical Atlas/
+36. spinal nerve roots/
+37. exp brachial plexus/
+38. (odontoid* or cervical or occip* or atlant*).tw.
+39. axis/ or odontoid process/
+40. Thoracic Vertebrae/
+41. cervical vertebrae.mp.
+42. cervical plexus.mp.
+43. cervical spine.mp.
+44. (neck adj3 muscles).mp.
+45. (brachial adj3 plexus).mp.
+46. (thoracic adj3 vertebrae).mp.
+47. neck.mp.
+48. (thoracic adj3 spine).mp.
+49. (thoracic adj3 outlet).mp.
+50. trapezius.mp.
+51. cervical.mp.
+52. cervico*.mp.
+53. 51 or 52
+54. exp genital diseases, female/
+55. genital disease*.mp.
+56. exp *Uterus/
+57. 54 or 55 or 56
+58. 53 not 57
+59. 29 or 30 or 31 or 32 or 33 or 34 or 35 or 36 or 37 or 38 or 39 or 40 or 41 or 42 or 43 or 44 or 45 or 46 or 47 or 48 or 49 or 50 or 58
+60. exp pain/
+61. exp injuries/
+62. pain.mp.
+63. ache.mp.
+64. sore.mp.
+65. stiff.mp.
+66. discomfort.mp.
+67. injur*.mp.
+68. neuropath*.mp.
+69. or/60-68
+70. 59 and 69
+71. Radiculopathy/
+72. (exp temporomandibular joint disorders/ or exp temporomandibular joint dysfunction syndrome/)
+73. myofascial pain syndromes/
+74. exp "Sprains and Strains"/
+75. exp Spinal Osteophytosis/
+76. exp Neuritis/
+77. Polyradiculopathy/
+78. exp Arthritis/
+79. Fibromyalgia/
+80. (spondylitis/ or discitis/)
+81. (spondylosis/ or spondylolysis/ or spondylolisthesis/)
+82. radiculopathy.mp.
+83. radiculitis.mp.
+84. temporomandibular.mp.
+85. myofascial pain syndrome*.mp.
+86. thoracic outlet syndrome*.mp.
+87. spinal osteophytosis.mp.
+88. neuritis.mp.
+89. spondylosis.mp.
+90. spondylitis.mp.
+91. spondylolisthesis.mp.
+92. or/71-91
+93. 59 and 92
+94. exp neck/
+95. exp cervical vertebrae/
+96. Thoracic Vertebrae/
+97. neck.mp.
+98. (thoracic adj3 vertebrae).mp.
+99. cervical.mp.
+100. cervico*.mp.
+101. 99 or 100
+102. exp genital diseases, female/
+103. genital disease*.mp.
+104. exp *Uterus/
+105. or/102-104
+106. 101 not 105
+107. (thoracic adj3 spine).mp.
+108. cervical spine.mp.
+109. 94 or 95 or 96 or 97 or 98 or 106 or 107 or 108
+110. Intervertebral Disk/
+111. (disc or discs).mp.
+112. (disk or disks).mp.
+113. 110 or 111 or 112
+114. 109 and 113
+115. herniat*.mp.
+116. slipped.mp.
+117. prolapse*.mp.
+118. displace*.mp.
+119. degenerat*.mp.
+120. (bulge or bulged or bulging).mp.
+121. 115 or 116 or 117 or 118 or 119 or 120
+122. 114 and 121
+123. (intervertebral disk degeneration/ or intervertebral disk displacement/)
+124. intervertebral disk displacement.mp.
+125. intervertebral disc displacement.mp.
+126. intervertebral disk degeneration.mp.
+127. intervertebral disc degeneration.mp.
+128. 123 or 124 or 125 or 126 or 127
+129. 109 and 128
+130. 28 or 70 or 93 or 122 or 129
+131. (humans/ not animals/)
+132. 130 and 131
+133. exp *neoplasms/
+134. exp *wounds, penetrating/
+135. 133 or 134
+136. 132 not 135
+137. Neck Pain/
+138. exp Brachial Plexus Neuropathies/
+139. (exp neck injuries/ or exp whiplash injuries/)
+140. thoracic outlet syndrome/ or cervical rib syndrome/
+141. Torticollis/
+142. (exp brachial plexus neuropathies/ or exp brachial plexus neuritis/)
+143. 137 or 138 or 139 or 140 or 141 or 142
+144. Radiculopathy/
+145. (exp temporomandibular joint disorders/ or exp temporomandibular joint dysfunction syndrome/)
+146. myofascial pain syndromes/
+147. exp "Sprains and Strains"/
+148. exp Spinal Osteophytosis/
+149. exp Neuritis/
+150. Polyradiculopathy/
+151. exp Arthritis/
+152. Fibromyalgia/
+153. (spondylitis/ or discitis/)
+154. (spondylosis/ or spondylolysis/ or spondylolisthesis/)
+155. or/144-154
+156. 59 and 155
+157. exp Combined Modality Therapy/
+158. Exercise/
+159. Physical Exertion/
+160. exp Exercise Therapy/
+161. exp Electric Stimulation Therapy/
+162. exp Rehabilitation/
+163. exp Physical Therapy Modalities/
+164. Hydrotherapy/
+165. postur* correction.mp.
+166. Feldenkrais.mp.
+167. (alexander adj (technique or method).tw.).tw.
+168. Relaxation Therapy/
+169. Biofeedback, Psychology/
+170. or/157-169
+171. 136 and 170
+172. 143 or 156 or 171
+173. (humans/ not animals/)
+174. 172 and 173
+175. exp randomised controlled trials as topic/
+176. randomised controlled trial.pt.
+177. controlled clinical trial.pt.
+178. (random* or sham or placebo*).tw.
+179. placebos/
+180. random allocation/
+181. single blind method/
+182. double blind method/
+183. ((singl* or doubl* or trebl* or tripl*).ti,ab. adj25 (blind* or dumm* or mask*).ti,ab.).ti,ab.
+184. (rct or rcts).tw.
+185. (control* adj2 (study or studies or trial*).tw.).tw.
+186. or/175-185
+187. 174 and 186
+188. (2006 or 2007 or 2008 or 2009 or 2010 or 2011 or 2012 or 2013 or 2014 or 2015 or 2016 or 2017 or 2018).ed.
+189. (1902 or 1903 or 1904 or 1905 or 1906 or 1907 or 1908 or 1909 or 1910 or 1911 or 1912 or 1913 or 1914 or 1915 or 1916 or 1917 or 1918 or 1919 or 1920 or 1921 or 1922 or 1923 or 1924 or 1925 or 1926 or 1927 or 1928 or 1929 or 1930 or 1931 or 1932 or 1933 or 1934 or 1935 or 1936 or 1937 or 1938 or 1939 or 1940 or 1941 or 1942 or 1943 or 1944 or 1945 or 1946 or 1947 or 1948 or 1949 or 1950 or 1951 or 1952 or 1953 or 1954 or 1955 or 1956 or 1957 or 1958 or 1959 or 1960 or 1961 or 1962 or 1963 or 1964 or 1965 or 1966 or 1967 or 1968 or 1969 or 1970 or 1971 or 1972 or 1973 or 1974 or 1975 or 1976 or 1977 or 1978 or 1979 or 1980 or 1981 or 1982 or 1983 or 1984 or 1985 or 1986 or 1987 or 1988 or 1989 or 1990 or 1991 or 1992 or 1993 or 1994 or 1995 or 1996 or 1997 or 1998 or 1999 or 2000 or 2001 or 2002 or 2003 or 2004 or 2005).ed.
+190. 187 and 188
+191. 187 and 189
+192. guidelines as topic/
+193. practice guidelines as topic/
+194. guideline.pt.
+195. practice guideline.pt.
+196. (guideline? or guidance or recommendations).ti.
+197. consensus.ti.
+198. or/192-197
+199. 174 and 198
+200. 136 and 198
+201. 199 or 200
+202. 201 and 188
+203. 201 and 189
+204. meta-analysis/
+205. exp meta-analysis as topic/
+206. (meta analy* or metaanaly* or met analy* or metanaly*).tw.
+207. review literature as topic/
+208. (collaborative research or collaborative review* or collaborative overview*).tw.
+209. (integrative research or integrative review* or intergrative overview*).tw.
+210. (quantitative adj3 (research or review* or overview*).tw.).tw.
+211. (research integration or research overview*).tw.
+212. (systematic*.tw. adj3 (review* or overview*).tw.).tw.
+213. (methodologic*.tw. adj3 (review* or overview*).tw.).tw.
+214. exp technology assessment biomedical/
+215. (hta or thas or technology assessment*).tw.
+216. ((hand adj2 search*).tw. or (manual* adj search*).tw.)
+217. ((electronic adj database*).tw. or (bibliographic* adj database*).tw.)
+218. ((data adj2 abstract*).tw. or (data adj2 extract*).tw.)
+219. (analys*.tw. adj3 (pool or pooled or pooling).tw.).tw.
+220. mantel haenszel.tw.
+221. (cohrane or pubmed or pub med or medline or embasscpe or psycinfo or psyclit or psychinfo or psychlit or cinahl or science citation index).ab.
+222. or/204-221
+223. 174 and 222
+224. 223 and 188
+225. 223 and 189
+226. (ae or to or po or co).fs.
+227. (safe or safety or unsafe).tw.
+228. (side effect* or side event*).tw.
+229. ((adverse or undesirable or harm* or injurious or serious or toxic).tw. adj3 (effect* or event* or reaction* or incident* or outcome*).tw.)
+230. (abnormalit* or toxicit* or complication* or consequence* or noxious or tolerabilit*).tw.
+231. or/226-230
+232. 224 and 225
+233. 202 and 203
+234. 174 and 231
+235. 232 and 233
+236. 234 or 235

@@ -1,0 +1,43 @@
+1. exp psychotic disorders/
+2. Delusions/
+3. Hallucinations/
+4. Paranoid Disorders/
+5. Schizophrenia/
+6. (psychotic disorder$ or psychoses or psychosis).tw.
+7. (delusion$ or hallucination$ or paranoid$).tw.
+8. (schizoaffective disorder$ or schizophreniform disorder$ or schizophrenia).tw.
+9. exp mood disorders/
+10. 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9
+11. Receptors, Steroid/
+12. Glucocorticoids/
+13. Receptors, Corticotropin-Releasing Hormone/
+14. Receptors, Corticotropin/
+15. Dexamethasone/
+16. Hydrocortisone/
+17. Adrenocorticotropic Hormone/
+18. Corticotrophs/
+19. Hydroxycorticosteroids/
+20. R 121919.mp.
+21. ORG 34116.mp.
+22. 3-acetoxyandrost-5-ene-7,17-dione.mp.
+23. Dehydroepiandrosterone/
+24. Mifepristone/
+25. Mitotane/
+26. Aminoglutethimide/
+27. Spironolactone/
+28. Ketoconazole/
+29. Metyrapone/
+30. Corticotropin-Releasing Hormone/
+31. 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or 26 or 27 or 28 or 29 or 30
+32. 10 and 31
+33. clinical trial.pt.
+34. clinical trial$.mp.
+35. random$.mp.
+36. placebo.mp.
+37. placebo.ti,ab.
+38. groups.ti,ab.
+39. dt.mp.
+40. trial.mp.
+41. groups.mp.
+42. 33 or 34 or 35 or 36 or 37 or 38 or 39 or 40
+43. 32 and 42

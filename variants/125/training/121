@@ -1,0 +1,15 @@
+exp Progesterone/
+exp Obstetric Labor, Premature/
+exp Tocolytic Agents/
+exp Tocolysis/
+2 or 3 or 4
+1 or 5
+clinical trial.pt.
+randomized.ti,ab.
+placebo.ti,ab.
+dt.fs.
+randomly.ti,ab.
+trial.ti,ab.
+groups.ti,ab.
+or/7-13
+6 and 14

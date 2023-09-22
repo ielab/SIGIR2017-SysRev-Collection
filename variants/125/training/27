@@ -1,0 +1,4 @@
+1. (exp Antifungal Agents/ or exp Mycoses/ or (micafungin or anidulafungin or fung* or fluconazole or diflucan or itraconazole or sporanox or ketoconazole or nizoral or voriconazole or amphotericin or ambisome or amphotec or abelcet or flucytosine or nystatin or miconazole or echinocandin* or caspofungin or (select* adj3 decontam*).mp.).mp.)
+2. (exp Intensive Care Units/ or (intensive care or critical* or surg*).mp.)
+3. ((("randomized controlled trial" or "controlled clinical trial").pt. or randomized.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab. or trial.ti.) and (humans not animals).sh.)
+4. 1 and 2 and 3

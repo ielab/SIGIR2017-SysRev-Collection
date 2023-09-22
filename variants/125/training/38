@@ -1,0 +1,48 @@
+randomized controlled trial.pt.
+controlled clinical trial.pt.
+clinical trial.pt.
+exp clinical trial/
+Random Allocation/
+Double-Blind Method/
+Single-Blind Method/
+Comparative Study/
+evaluation studies/
+Follow-Up Studies/
+cross-over studies/
+Research Design/
+Placebos/
+(clinic$ adj25 trial$).tw.
+((single$ or double$ or treble$ or triple$).tw. adj (mask$ or blind$).tw.)
+(control$ or prospective$ or volunteer$).tw.
+(latin adj square).tw.
+placebo$.tw.
+random$.tw.
+or/1-19
+(humans not animals).sh.
+20 and 21
+dorsalgia.ti,ab.
+exp Back Pain/
+backache.ti,ab.
+(lumbar adj pain).ti,ab.
+coccyx.ti,ab.
+coccydynia.ti,ab.
+sciatica.ti,ab.
+exp sciatic neuropathy/
+spondylosis.ti,ab.
+lumbago.ti,ab.
+low back pain.mp.
+or/23-33
+22 and 34
+exp Exercise/
+exercise$.mp.
+train$.mp.
+36 or 37 or 38
+specific.mp.
+stabili$.mp.
+segment$.mp.
+multifidus.mp.
+transversus.mp.
+motor control.mp.
+or/40-45
+39 and 46
+35 and 47

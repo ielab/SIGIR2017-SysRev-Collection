@@ -1,0 +1,26 @@
+exp Vitamin B Complex/
+thiamin$.tw.
+niacin$.tw.
+riboflavin$.tw.
+folic acid.tw.
+folate$.tw.
+cobalamin$.tw.
+biotin$.tw.
+neurobion$.tw.
+pantothenic acid.tw.
+pyridox$.tw.
+benfotiamine.tw.
+vitamin b.tw.
+(vitamin b1 or "vitamin b 1").tw.
+(vitamin b2 or "vitamin b 2").tw.
+(vitamin b3 or "vitamin b 3").tw.
+(vitamin b5 or "vitamin b 5").tw.
+(vitamin b6 or "vitamin b 6").tw.
+(vitamin b7 or "vitamin b 7").tw.
+(vitamin b9 or "vitamin b 9").tw.
+(vitamin b12 or "vitamin b 12").tw.
+or/1-21
+Diabetic Nephropathies/
+((diabetes or diabetic).tw. and (kidney$ or renal or nephro$ or nephriti$ or glomerulo$ or albuminur$).tw.)
+or/23-24
+and/22,25

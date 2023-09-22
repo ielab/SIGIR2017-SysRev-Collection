@@ -1,0 +1,39 @@
+1. (cerebrovascular disorders/ or exp basal ganglia cerebrovascular disease/ or exp brain ischemia/ or exp carotid artery diseases/ or exp cerebrovascular trauma/ or exp intracranial arterial diseases/ or exp intracranial arteriovenous malformations/ or exp "intracranial embolism and thrombosis"/ or exp intracranial hemorrhages/ or stroke/ or exp brain infarction/ or vasospasm, intracranial/)
+2. (stroke or poststroke or post-stroke or cerebrovasc$ or brain vasc$ or cerebral vasc$ or cva$ or apoplex$ or SAH).tw.
+3. ((brain$ or cerebr$ or cerebell$ or intracran$ or intracerebral).tw. adj5 (isch?emi$ or infarct$ or thrombo$ or emboli$ or occlus$).tw.)
+4. ((brain$ or cerebr$ or cerebell$ or intracerebral or intracranial or subarachnoid).tw. adj5 (haemorrhage$ or hemorrhage$ or haematoma$ or hematoma$ or bleed$).tw.)
+5. ((transi$ adj3 isch?em$ adj3 attack$) or TIA$1).tw.
+6. 1 or 2 or 3 or 4 or 5
+7. PPAR gamma/
+8. (Peroxisome Proliferator-Activated Receptors/ or Transcription Factors/)
+9. Thiazolidinediones/
+10. ((peroxisome proliferator-activated receptor gamma or PPAR gamma or PPAR-gamma or PPARgamma or PPARG or NR1C3).tw. adj5 (agonist$ or modulator$ or stimulat$ or stimulant$ or activat$).tw.)
+11. (thiazolidinedione$ or glitazone$ or pioglitazone or rosiglitazone or troglitazone or netoglitazone or rivoglitazone or ciglitazone or balaglitazone or darglitazone or edaglitazone or englitazone or lobeglitazone).tw,nm.
+12. 7 or 8 or 9 or 10 or 11
+13. Randomised Controlled Trials as Topic/
+14. random allocation/
+15. Controlled Clinical Trials as Topic/
+16. control groups/
+17. (clinical trials as topic/ or clinical trials, phase i as topic/ or clinical trials, phase ii as topic/ or clinical trials, phase iii as topic/ or clinical trials, phase iv as topic/)
+18. double-blind method/
+19. single-blind method/
+20. Placebos/
+21. placebo effect/
+22. Drug Evaluation/
+23. Research Design/
+24. randomised controlled trial.pt.
+25. controlled clinical trial.pt.
+26. (clinical trial or clinical trial phase i or clinical trial phase ii or clinical trial phase iii or clinical trial phase iv).pt.
+27. random$.tw.
+28. (controlled adj5 (trial$ or stud$).tw.).tw.
+29. (clinical$ adj5 trial$).tw.
+30. ((control or treatment or experiment$ or intervention).tw. adj5 (group$ or subject$ or patient$).tw.)
+31. (quasi-random$ or quasi random$ or pseudo-random$ or pseudo random$).tw.
+32. ((singl$ or doubl$ or tripl$ or trebl$).tw. adj5 (blind$ or mask$).tw.)
+33. placebo$.tw.
+34. controls.tw.
+35. ((RCT or RCTs).tw. or trial.ti.)
+36. or/13-35
+37. 6 and 12 and 36
+38. (humans.sh. not animals/)
+39. 37 and 38

@@ -1,0 +1,47 @@
+1. exp Dementia/
+2. Cognition Disorders/
+3. (alzheimer$ or dement$).ti,ab.
+4. ((cognit$ or memory or cerebr$ or mental$).ti,ab. adj3 (declin$ or impair$ or los$ or deteriorat$ or degenerat$ or complain$ or disturb$ or disorder$).ti,ab.)
+5. (forgetful$ or confused or confusion).ti,ab.
+6. MCI.ti,ab.
+7. ACMI.ti,ab.
+8. ARCD.ti,ab.
+9. SMC.ti,ab.
+10. CIND.ti,ab.
+11. BSF.ti,ab.
+12. AAMI.ti,ab.
+13. MD.ti,ab.
+14. LCD.ti,ab.
+15. QD.ti,ab.
+16. AACD.ti,ab.
+17. MNCD.ti,ab.
+18. MCD.ti,ab.
+19. ("N-MCI" or "A-MCI" or "M-MCI").ti,ab.
+20. or/1-19
+21. "Positron emission tomography".ti,ab.
+22. *Positron-Emission Tomography/
+23. PET.ti,ab.
+24. "FDG-PET".ti,ab.
+25. ("PET-FDG" or "18f-fdg" or "fdg uptake").ti,ab.
+26. fluodeoxyglucose*.ti,ab.
+27. fluorodexyglucose*.ti,ab.
+28. Fluorodeoxyglucose F18/
+29. or/21-28
+30. glucose metabolism.ti,ab.
+31. hypometabolism.ti,ab.
+32. cerebral metabolic rate.ti,ab.
+33. metabolic activity.ti,ab.
+34. hypoperfusion.ti,ab.
+35. (CMRgl or rCMRGlu).ti,ab.
+36. or/30-35
+37. 20 and 29 and 36
+38. disease progression/
+39. (dement* or alzheimer* or AD or MCI).ti,ab.
+40. exp *Dementia/
+41. 39 or 40
+42. 41 and 38
+43. 29 and 42
+44. 37 or 43
+45. exp Dementia/
+46. 36 and 45
+47. 44 or 46

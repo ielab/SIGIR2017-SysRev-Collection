@@ -1,0 +1,31 @@
+1 oscillococcinum.tw,nm.
+2 "anas barbariae hepatis et cordis extractum".tw,nm.
+3 Homeopathy/
+4 homeopath*.tw.
+5 homoeopath*.tw.
+6 oscillo*.tw,nm.
+7 or/3-6
+8 Influenza, Human/
+9 exp Influenzavirus A/
+10 exp Influenzavirus B/
+11 influenza*.tw.
+12 flu.tw.
+13 Cough/
+14 cough*.tw.
+15 sore throat*.tw.
+16 exp Viruses/
+17 virus*.tw.
+18 Respiratory Tract Infections/
+19 Respiratory System/
+20 exp Infection/
+21 infection*.tw.
+22 (respiratory adj3 (infection* or tract or acute or symptom*).tw.).tw.
+23 exp Fever/
+24 fever*.tw.
+25 runny nose*.tw.
+26 Headache/
+27 headache*.tw.
+28 (pain adj2 (limb* or joint*).tw.).tw.
+29 or/8-28
+30 7 and 29
+31 1 or 2 or 30

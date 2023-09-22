@@ -1,0 +1,5 @@
+1. (exp Nicotine/  or exp Nicotinic Agonists/  or exp Receptors, Nicotinic/ or  nicotin*.af.)
+2. (exp Analgesics/ or exp Analgesia/ or  analges*.mp. or  exp Pain, Postoperative/ or exp pain/dt or exp Surgical Procedures, Operative/ or su.fs. or (pain* adj5 (post or follow* or after* or surger* or surgic* or operat* or procedur*).mp.).mp.)
+3. 1 and 2
+4. ((randomized controlled trial.pt. or controlled clinical trial.pt. or randomized.ab. or placebo.ab. or drug therapy.fs. or randomly.ab. or trial.ab. or groups.ab.) and (humans.sh. not animals.sh.))
+5. 3 and 4

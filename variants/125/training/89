@@ -1,0 +1,8 @@
+1. (Pulmonary Ventilation/ or Ventilation/ or Positive-Pressure Respiration/ or Respiration, Artificial/ or Ventilators, Mechanical/ or High-Frequency Ventilation/ or High-Frequency Jet Ventilation/)
+2. (((Pressure-controlled or volume-controlled).mp. and ventilat*).mp. or ventilat*.ti.)
+3. 1 or 2
+4. (Respiratory Distress Syndrome, Adult/ or Respiratory Insufficiency/ or exp Severe Acute Respiratory Syndrome/ or Lung Injury/)
+5. ((acute respiratory failure or acute lung injury or (acute adj3 distress syndrome).mp.).mp. or (ALI or ARDS).ti,ab.)
+6. 5 or 4
+7. (((randomized controlled trial or controlled clinical trial).pt. or randomized.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab. or trial.ti.) and (humans not animals).sh.)
+8. 7 and 6 and 3

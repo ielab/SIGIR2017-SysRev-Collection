@@ -1,0 +1,66 @@
+1. exp Dementia/
+2. Delirium/
+3. Wernicke Encephalopathy/
+4. Delirium, Dementia, Amnestic, Cognitive Disorders/
+5. dement*.mp.
+6. alzheimer*.mp.
+7. (lewy* adj2 bod*).mp.
+8. deliri*.mp.
+9. (chronic adj2 cerebrovascular).mp.
+10. ("organic brain disease" or "organic brain syndrome").mp.
+11. ("normal pressure hydrocephalus" and "shunt*").mp.
+12. "benign senescent forgetfulness".mp.
+13. (cerebr* adj2 deteriorat*).mp.
+14. (cerebral* adj2 insufficient*).mp.
+15. (pick* adj2 disease).mp.
+16. (creutzfeldt or jcd or cjd).mp.
+17. huntington*.mp.
+18. binswanger*.mp.
+19. korsako*.mp.
+20. or/1-19
+21. (statin or statins).ti,ab.
+22. atorvastatin.ti,ab.
+23. cerivastatin.ti,ab.
+24. fluvastatin.ti,ab.
+25. lovastatin.ti,ab.
+26. pravastatin.ti,ab.
+27. simvastatin.ti,ab.
+28. lipitor.ti,ab.
+29. baycol.ti,ab.
+30. lescol.ti,ab.
+31. mevacor.ti,ab.
+32. altocor.ti,ab.
+33. pravachol.ti,ab.
+34. lipostat.ti,ab.
+35. zocor.ti,ab.
+36. mevinolin.ti,ab.
+37. compactin.ti,ab.
+38. fluindostatin.ti,ab.
+39. rosuvastatin.ti,ab.
+40. Hydroxymethylglutaryl-CoA Reductase Inhibitors/ or Lovastatin/
+41. Simvastatin/
+42. or/21-41
+43. 20 and 42
+44. randomized controlled trial.pt.
+45. controlled clinical trial.pt.
+46. controlled clinical trial.pt.
+47. randomized.ab.
+48. placebo.ab.
+49. drug therapy.fs.
+50. randomly.ab.
+51. trial.ab.
+52. groups.ab.
+53. or/44-52
+54. animals.sh.
+55. 53 not 54
+56. 43 and 55
+57. exp *Secondary Prevention/ or exp *Primary Prevention/
+58. (prevent or prevention).ti,ab.
+59. "delay onset".ti,ab.
+60. exp *Cognition/
+61. ((cognit* or cognition or memory or mental or brain).ti,ab. adj3 (impair* or decline* or deficit* or los* or stop* or reduc*).ti,ab.)
+62. (dementia or alzheimer*).ti,ab.
+63. Dementia/
+64. or/57-63
+65. 42 and 64
+66. 56 and 65

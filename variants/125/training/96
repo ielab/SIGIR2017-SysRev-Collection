@@ -1,0 +1,5 @@
+1. ((zentralveno?s* kathet* or (venostrom* or venenkathe*).mp. or hickman line* or central line* insertion* or pulmonary arter* flotation* or ((venous or vein*).mp. adj4 (cannulation or access or catheter* puncture).mp.).mp. or central venous line* or central venous pressure).mp. or exp Venous Cutdown/ or Central Venous Pressure/ or exp Catheterization Central Venous/)
+2. ((ultrasound* or ultrasonic* or Doppler or echography or ultrasonograpgh*).mp. or exp Ultrasonography Doppler Color/ or exp Echocardiography Doppler/ or exp Ultrasonography/ or exp Ultrasonics/)
+3. 1 and 2 
+4. (((randomized controlled trial or controlled clinical trial).pt. or randomized.ab. or placebo.ab. or drug therapy.fs. or randomly.ab. or trial.ab. or groups.ab.) and (humans not animals).sh.)
+5. 3 and 4

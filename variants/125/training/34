@@ -1,0 +1,32 @@
+1 exp Infant, Newborn/
+2 Premature Birth/
+3 (neonat$ or neo nat$).ti,ab.
+4 (newborn$ or new born$ or newly born$).ti,ab.
+5 (preterm or preterms or pre term or pre terms).ti,ab.
+6 (preemie$ or premie or premies).ti,ab.
+7 (prematur$ adj3 (birth$ or born or deliver$).ti,ab.).ti,ab.
+8 (low adj3 (birthweight$ or "birth weight$").ti,ab.).ti,ab.
+9 (lbw or vlbw or elbw).ti,ab.
+10 infan$.ti,ab.
+11 (baby or babies).ti,ab.
+12 Enterocolitis, Necrotizing/
+13 enterocolitis.ti,ab.
+14 NEC.ti,ab.
+15 or/1-14
+16 Glutamine/
+17 glutam$.ti,ab.
+18 levoglutam$.ti,ab.
+19 16 or 17 or 18
+20 15 and 19
+21 randomized controlled trial.pt.
+22 controlled clinical trial.pt.
+23 randomized.ab.
+24 placebo.ab.
+25 drug therapy.fs.
+26 randomly.ab.
+27 trial.ab.
+28 groups.ab.
+29 or/21-28
+30 (humans.sh. not animals/)
+31 29 and 30
+32 15 and 19 and 31

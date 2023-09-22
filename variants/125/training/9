@@ -1,0 +1,70 @@
+1 exp Heart Failure/
+2 exp Ventricular Dysfunction/
+3 heart failure.tw.
+4 cardiac failure.tw.
+5 (ventric$ adj6 dysfunction$).tw.
+6 (ventric$ adj6 function$).tw.
+7 exp Heart Defects, Congenital/
+8 (congenital$ adj3 heart).tw.
+9 (congenital$ adj3 cardiac).tw.
+10 or/1-9
+11 exp Adrenergic beta-Antagonists/
+12 betablocker$.tw.
+13 (beta$ adj3 block$).tw.
+14 (beta.tw. and (adrenergic adj6 block$)).tw.
+15 Acebutolol.tw.
+16 atenolol.tw.
+17 alprenolol.tw.
+18 betaxolol.tw.
+19 bisoprolol.tw.
+20 bupranolol.tw.
+21 carvedilol.tw.
+22 carteolol.tw.
+23 celiprolol.tw.
+24 esmolol.tw.
+25 labetalol.tw.
+26 metoprolol.tw.
+27 nadolol.tw.
+28 oxprenolol.tw.
+29 penbutolol.tw.
+30 pindolol.tw.
+31 practolol.tw.
+32 propranolol.tw.
+33 sotalol.tw.
+34 timolol.tw.
+35 or/11-34
+36 10 and 35
+37 "all child (0 to 18 years)"
+38 (child$ or infant$ or pediatr$ or paediatr$ or adolesc$).tw.
+39 38 and 36
+40 37 or 39
+41 randomized controlled trial.pt.
+42 controlled clinical trial.pt.
+43 Randomized controlled trials/
+44 random allocation/
+45 double blind method/
+46 single-blind method/
+47 or/41-46
+48 humans/
+49 47 and 48
+50 clinical trial.pt.
+51 exp Clinical trials as topic/
+52 (clin$ adj25 trial$).ti,ab.
+53 ((singl$ or doubl$ or trebl$ or tripl$).ti,ab. adj (blind$ or mask$).ti,ab.)
+54 placebos/
+55 placebo$.ti,ab.
+56 random$.ti,ab.
+57 research design/
+58 or/50-57
+59 58 and 48
+60 59 and 49
+61 comparative study.pt.
+62 exp evaluation studies/
+63 follow up studies/
+64 prospective studies/
+65 (control$ or prospectiv$ or volunteer$).ti,ab.
+66 or/61-65
+67 66 and 48
+68 67 and 49 or 60
+69 49 or 60 or 68
+70 40 and 69

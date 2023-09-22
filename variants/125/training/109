@@ -1,0 +1,7 @@
+1. ((protocol* or non?protocol* or directed or guide* or algorithm* or manage* or ((standar* or regular*).mp. adj3 assess*).mp.).mp. or algorithms/ or exp Guideline/ or exp Clinical Protocols/ or exp Medication Therapy Management/)
+2. (exp Conscious Sedation/ or exp Analgesia, Patient-Controlled/ or exp Analgesics/ or exp "Hypnotics and Sedatives"/ or sedat*.af. or analge*.ti,ab.)
+3. 1 and 2 
+4. ((((mechanical* or artificial).mp. adj4 (ventil* or wean* or respirat*).mp.).mp. or ((crtical* or intens* or emergency).mp. adj5 (care or ill* or patient* or unit* or ward*).mp.).mp. or (length adj3 stay).mp. or ICU).mp. or exp Intensive Care/ or exp Intensive Care Units/ or exp Critical Care/ or exp Critical Illness/ or exp Respiration, Artificial/ or exp Ventilator Weaning/ or "Length of Stay"/)
+5. 3 and 4 
+6. (((randomized controlled trial or controlled clinical trial).pt. or randomized.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab. or trial.ti.) and (humans not animals).sh.)
+7. 5 and 6

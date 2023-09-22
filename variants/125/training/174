@@ -1,0 +1,304 @@
+1. Shock, Cardiogenic/
+2. cardiogenic* shock*.tw.
+3. Cardiac Output, Low/
+4. (low adj2 cardiac output).tw.
+5. ((instab* or unstab*).tw. adj h?emodynamic*).tw.
+6. or/1-5
+7. Drug Therapy/
+8. ((drug or medica* or pharmacological).tw. adj (therap* or treatment).tw.)
+9. exp Drug Administration Routes/
+10. drug administ*.tw.
+11. Drug Administration Schedule/
+12. or/7-11
+13. exp Cardiotonic Agents/
+14. cardiotonic.tw.
+15. ((myocardial or cardiac).tw. adj stimula*).tw.
+16. inotrope*.tw.
+17. inotropic agent*.tw.
+18. cardioprotective agent*.tw.
+19. acetyldigitoxin*.tw.
+20. acetyldigoxin*.tw.
+21. adrenomedullin.tw.
+22. aminophylline.tw.
+23. amrinone.tw.
+24. bufanolide*.tw.
+25. carbachol.tw.
+26. cardiac glycoside*.tw.
+27. cymarine.tw.
+28. deslanoside.tw.
+29. digitalis glycoside*.tw.
+30. digitoxin.tw.
+31. digoxin.tw.
+32. dobutamine.tw.
+33. dopamine.tw.
+34. enoximone.tw.
+35. etilefrine.tw.
+36. isoproterenol.tw.
+37. lisinopril.tw.
+38. medigoxin.tw.
+39. milrinone.tw.
+40. ouabain.tw.
+41. oxyfedrine.tw.
+42. phenylephrine.tw.
+43. phosphocreatine.tw.
+44. potassium magnesium aspartate.tw.
+45. prenalterol.tw.
+46. proscillaridin.tw.
+47. strophanthin*.tw.
+48. or/12-47
+49. exp Vasodilator Agents/
+50. vasodilators.tw.
+51. vasodilator drug*.tw.
+52. vasodilator agent*.tw.
+53. vasorelaxant*.tw.
+54. vasoactive antagonist*.tw.
+55. acetylcholine.tw.
+56. adenosine*.tw.
+57. adrenomedullin.tw.
+58. alprostadil.tw.
+59. amiodarone.tw.
+60. amlodipine.tw.
+61. amyl nitrite.tw.
+62. bencyclane.tw.
+63. bepridil.tw.
+64. betahistine.tw.
+65. bradykinin.tw.
+66. calcitonin.tw.
+67. celiprolol.tw.
+68. chromonar.tw.
+69. cromakalim.tw.
+70. cyclandelate.tw.
+71. diazoxide.tw.
+72. dihydroergocristine.tw.
+73. dihydroergocryptine.tw.
+74. dilazep.tw.
+75. diltiazem.tw.
+76. dipyridamole.tw.
+77. dyphylline.tw.
+78. ergoloid mesylate*.tw.
+79. erythritol.tw.
+80. erythrityl tetranitrate.tw.
+81. felodipine.tw.
+82. fenoldopam.tw.
+83. flunarizine.tw.
+84. hexobendine.tw.
+85. hydralazine.tw.
+86. iloprost.tw.
+87. isosorbide dinitrate.tw.
+88. isoxsuprine.tw.
+89. isradipine.tw.
+90. kallidin.tw.
+91. khellin.tw.
+92. lidoflazine.tw.
+93. mibefradil.tw.
+94. minoxidil.tw.
+95. molsidomine.tw.
+96. moxisylyte.tw.
+97. nafronyl.tw.
+98. niacin.tw.
+99. nicardipine.tw.
+100. nicergoline.tw.
+101. nicorandil.tw.
+102. nicotinyl alcohol.tw.
+103. nifedipine.tw.
+104. nimodipine.tw.
+105. nisoldipine.tw.
+106. nitrendipine.tw.
+107. nitroglycerin.tw.
+108. nitroprusside.tw.
+109. nonachlazine.tw.
+110. nylidrin.tw.
+111. oxprenolol.tw.
+112. oxyfedrine.tw.
+113. papaverine.tw.
+114. pentaerythritol tetranitrate.tw.
+115. pentoxifylline.tw.
+116. perhexiline.tw.
+117. phenoxybenzamine.tw.
+118. pinacidil.tw.
+119. pindolol.tw.
+120. Pituitary Adenylate Cyclase-Activating Polypeptide.tw.
+121. polymethyl methacrylate.tw.
+122. prenylamine.tw.
+123. propranolol.tw.
+124. S-Nitroso-N-Acetylpenicillamine.tw.
+125. S-Nitrosoglutathione.tw.
+126. S-Nitrosothiols.tw.
+127. Sodium Azide.tw.
+128. Suloctidil.tw.
+129. Theobromine.tw.
+130. Theophylline.tw.
+131. Thiouracil.tw.
+132. Tolazoline.tw.
+133. Trapidil.tw.
+134. Trimetazidine.tw.
+135. Vasoactive Intestinal Peptide.tw.
+136. Verapamil.tw.
+137. Vincamine.tw.
+138. Xanthinol Niacinate.tw.
+139. or/49-138
+140. exp Vasoconstrictor Agents/
+141. vasopressor*.tw.
+142. vasoconstrictor*.tw.
+143. vasoactive agonist*.tw.
+144. Angiotensin Amide.tw.
+145. Angiotensin II.tw.
+146. Arginine Vasopressin.tw.
+147. Cocaine.tw.
+148. Dihydroergotamine.tw.
+149. Ephedrine.tw.
+150. Epinephrine.tw.
+151. Ergotamine.tw.
+152. Etilefrine.tw.
+153. Felypressin.tw.
+154. Lypressin.tw.
+155. Mephentermine.tw.
+156. Metaraminol.tw.
+157. Methoxamine.tw.
+158. Methysergide.tw.
+159. Midodrine.tw.
+160. Nordefrin.tw.
+161. Norepinephrine.tw.
+162. Octopamine.tw.
+163. Ornipressin.tw.
+164. Phenylephrine.tw.
+165. Sumatriptan.tw.
+166. Synephrine.tw.
+167. Vasopressin*.tw.
+168. Vasotocin.tw.
+169. or/140-168
+170. exp Anticoagulants/
+171. anticoagulant*.tw.
+172. 4-Hydroxycoumarins.tw.
+173. Acenocoumarol.tw.
+174. Ancrod.tw.
+175. Citric Acid.tw.
+176. Coumarin*.tw.
+177. Dalteparin.tw.
+178. Dermatan Sulfate.tw.
+179. Dextrans.tw.
+180. Dicumarol.tw.
+181. Edetic Acid.tw.
+182. Enoxaparin.tw.
+183. Ethyl Biscoumacetate.tw.
+184. Gabexate.tw.
+185. Heparin.tw.
+186. Heparin*.tw.
+187. Nadroparin.tw.
+188. Pentosan Sulfuric Polyester.tw.
+189. Phenindione.tw.
+190. Phenprocoumon.tw.
+191. Protein C.tw.
+192. Protein S.tw.
+193. Warfarin.tw.
+194. beta 2-Glycoprotein I.tw.
+195. antithrombin*.tw.
+196. thrombin inhibitor*.tw.
+197. Hirudin*.tw.
+198. or/170-197
+199. exp Platelet Aggregation Inhibitors/
+200. antiplatelet.tw.
+201. platelet antagonist*.tw.
+202. (platelet adj2 inhibitor*).tw.
+203. platelet antiaggregant*.tw.
+204. Aspirin.tw.
+205. Disintegrin*.tw.
+206. Epoprostenol.tw.
+207. Ketanserin.tw.
+208. Ticlopidine.tw.
+209. or/199-208
+210. Phosphodiesterase Inhibitors/
+211. ((phosphodiesterase2 or phosphodiesterase-2 or phosphodiesteraseII or phosphodiesterase-II).tw. adj (antagonist* or inhibitor*).tw.)
+212. antiphosphodiesterase*.tw.
+213. ((pde2 or pde-2 or pdeII or pde-II).tw. adj (antagonist* or inhibitor*).tw.)
+214. Caffeine/
+215. Caffeine.tw.
+216. Etazolate/
+217. Etazolate.tw.
+218. calcium sensitiser*.tw.
+219. Levosimendan.tw.
+220. or/210-219
+221. exp Anti-Inflammatory Agents/
+222. anti-inflammatories.tw.
+223. anti-inflammatory agent*.tw.
+224. antiinflammatories.tw.
+225. antiinflammatory agent*.tw.
+226. Algestone Acetophenide.tw.
+227. Beclomethasone.tw.
+228. Benzydamine.tw.
+229. Betamethasone.tw.
+230. Budesonide.tw.
+231. Clobetasol.tw.
+232. Corticosterone.tw.
+233. Cortisone.tw.
+234. Desonide.tw.
+235. Desoximetasone.tw.
+236. Dexamethasone.tw.
+237. Diflucortolone.tw.
+238. Fludrocortisone.tw.
+239. Flufenamic Acid.tw.
+240. Flumethasone.tw.
+241. Fluocinonide.tw.
+242. Fluocortolone.tw.
+243. Fluorometholone.tw.
+244. Fluprednisolone.tw.
+245. Flurandrenolone.tw.
+246. Glycyrrhetinic Acid.tw.
+247. Glycyrrhizic Acid.tw.
+248. Halcinonide.tw.
+249. Heparinoids.tw.
+250. Hydrocortisone.tw.
+251. Methylprednisolone.tw.
+252. Nedocromil.tw.
+253. Paramethasone.tw.
+254. Prednisolone.tw.
+255. Prednisone.tw.
+256. Tilorone.tw.
+257. Triamcinolone.tw.
+258. Ampyrone.tw.
+259. Antipyrine.tw.
+260. Apazone.tw.
+261. Bufexamac.tw.
+262. Clofazimine.tw.
+263. Clonixin.tw.
+264. Curcumin.tw.
+265. Diclofenac.tw.
+266. Diflunisal.tw.
+267. Dipyrone.tw.
+268. Epirizole.tw.
+269. Fenoprofen.tw.
+270. Flurbiprofen.tw.
+271. Ibuprofen.tw.
+272. Indomethacin.tw.
+273. Ketoprofen.tw.
+274. Ketorolac.tw.
+275. Meclofenamic Acid.tw.
+276. Mefenamic Acid.tw.
+277. Mesalamine.tw.
+278. Naproxen.tw.
+279. Niflumic Acid.tw.
+280. Oxyphenbutazone.tw.
+281. Phenylbutazone.tw.
+282. Piroxicam.tw.
+283. Prenazone.tw.
+284. Salicylate.tw.
+285. Sulfasalazine.tw.
+286. Sulindac.tw.
+287. Suprofen.tw.
+288. Tolmetin.tw.
+289. or/221-288
+290. tilarginine.tw.
+291. 12 or 48 or 139 or 169 or 198 or 209 or 220 or 289 or 290
+292. 6 and 291
+293. randomized controlled trial.pt.
+294. controlled clinical trial.pt.
+295. randomized.ab.
+296. placebo.ab.
+297. drug therapy.fs.
+298. randomly.ab.
+299. trial.ab.
+300. groups.ab.
+301. 293 or 294 or 295 or 296 or 297 or 298 or 299 or 300
+302. (humans.sh. not animals/)
+303. 301 and 302
+304. 292 and 303

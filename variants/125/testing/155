@@ -1,0 +1,9 @@
+1. exp Epilepsy/
+2. (epilepsy adj4 surg$).tw.
+3. exp Seizures/
+4. seizure$.tw.
+5. or/1-4
+6. high frequency oscillation$.tw.
+7. ripple$.tw.
+8. 6 or 7
+9. 5 and 8

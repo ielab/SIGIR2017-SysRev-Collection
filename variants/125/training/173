@@ -1,0 +1,27 @@
+1 randomized controlled trial.pt.
+2 controlled clinical trial.pt.
+3 randomized.ab.
+4 placebo.ab.
+5 drug therapy.fs.
+6 randomly.ab.
+7 trial.ab.
+8 groups.ab.
+9 or/1-8
+10 (humans.sh. not animals/)
+11 9 and 10
+12 exp herpes zoster/
+13 herpes zoster.mp.
+14 shingle$.mp.
+15 exp neuralgia, postherpetic/
+16 postherpetic neuralgia.mp.
+17 post-herpetic neuralgia.mp.
+18 post-herpetic pain.mp.
+19 postherpetic pain.mp.
+20 PHN.tw.
+21 trigeminal neuralgia.mp.
+22 exp Trigeminal Neuralgia/
+23 fibromyalgia.mp.
+24 (exp pain/ or (pain or painful).mp.)
+25 or/12-24
+26 (duloxetine or cymbalta).mp.
+27 11 and 25 and 26

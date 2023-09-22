@@ -1,0 +1,43 @@
+Arteriovenous Shunt, Surgical/
+Arteriovenous Fistula/
+Blood Vessel Prosthesis/
+(fistula$ or AVF$ or graft or grafts or shunt or shunts).tw.
+(vascular access or venous access).tw.
+(dialysis access or hemodialysis access or haemodialysis access).tw.
+or/1-6
+Renal Dialysis/
+exp Hemofiltration/
+dialysis.tw.
+(predialysis or pre-dialysis).tw.
+(hemodialysis or haemodialysis).tw.
+(hemofiltration or haemofiltration).tw.
+(hemodiafiltration or haemodiafiltration).tw.
+Renal Insufficiency/
+exp Renal Insufficiency, Chronic/
+(kidney failure or kidney disease or renal failure or renal disease).tw.
+(CKD or CKF or CRD or CRF or ESKD or ESKF or ESRD or ESRF).tw.
+or/8-18
+Constriction, Pathologic/
+Constriction/
+Graft Occlusion Vascular/
+Thrombosis/
+(stenosis or stenoses or stenosed or stenotic or restenos*).tw.
+(thrombosis or thrombosed or thrombotic).tw.
+(occlud* or occlusion or obstruct*).tw.
+or/20-26
+Angioplasty/
+Angioplasty, Balloon/
+exp Angioplasty, Laser/
+Balloon Dilation/
+angioplasty.tw.
+balloon dilation.tw.
+PTA.tw.
+Endovascular Procedures/
+exp Stents/
+Implants, Artificial/
+(endovascular treatment* or endovascular procedure* or endoluminal repair or endovascular surgery*).tw.
+(stent or stents or stenting).tw.
+(vein patch* or transposition* or interposition* or revision* or proximalization).tw.
+((pre-emptive or preemptive).tw. adj (strateg* or correction*).tw.)
+or/28-41
+7 and 19 and 27 and 42

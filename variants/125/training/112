@@ -1,0 +1,22 @@
+1 exp Orthognathic Surgery/
+2 exp Orthognathic Surgical Procedures/
+3 exp Osteotomy, Le Fort/
+4 (orthognathic adj5 surg*).tw.
+5 (maxillary osteotom* or Le Fort osteotom* or (mandibular adj5 osteotom*).tw. or vertical ramus osteotom* or genioplast*).tw.
+6 or/1-5
+7 exp Antibiotic Prophylaxis/
+8 exp Anti-Bacterial Agents/
+9 (antibiotic* or cephalosporin* or cefazolin or cefuroxime or amox?cillin* or clindam?cin or penicillin* or levofloxacin).tw.
+10 or/7-9
+11 6 and 10
+12 randomized controlled trial.pt.
+13 controlled clinical trial.pt.
+14 randomi?ed.ab.
+15 placebo.ab.
+16 clinical trials as topic.sh.
+17 randomly.ab.
+18 trial.ti.
+19 or/12-18
+20 (humans.sh. not animals/)
+21 19 and 20
+22 11 and 21

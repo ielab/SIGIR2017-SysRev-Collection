@@ -1,0 +1,50 @@
+1 exp Vitamin B Complex/
+2 vitamin b.tw.
+3 folic acid.tw.
+4 folate$.tw.
+5 ((homocystein$ or homocystin$).tw. adj3 (low$ or reduc$).tw.)
+6 pyridoxin$.tw.
+7 cobalamin$.tw.
+8 cyanocobalamin$.tw.
+9 pyridoxol$.tw.
+10 Vitamins/
+11 or/1-10
+12 Cardiovascular Diseases/
+13 exp Myocardial Ischemia/
+14 exp Brain Ischemia/
+15 Cerebrovascular Disorders/
+16 (coronary adj3 disease$).tw.
+17 angina.tw.
+18 myocardial infarct$.tw.
+19 heart infarct$.tw.
+20 heart attack$.tw.
+21 (stroke or strokes).tw.
+22 (cerebr$ adj3 (accident$ or infarct$).tw.).tw.
+23 (brain adj3 infarct$).tw.
+24 apoplexy.tw.
+25 (cardiovascular adj2 (disease$ or event$).tw.).tw.
+26 Hyperhomocysteinemia/
+27 hyperhomocyst?in?emi$.tw.
+28 or/12-27
+29 11 and 28
+30 randomized controlled trial.pt.
+31 controlled clinical trial.pt.
+32 Randomized controlled trials/
+33 random allocation/
+34 double blind method/
+35 single-blind method/
+36 or/30-35
+37 (humans/ not exp animal/)
+38 36 not 37
+39 clinical trial.pt.
+40 exp Clinical Trials as Topic/
+41 (clin$ adj25 trial$).ti,ab.
+42 ((singl$ or doubl$ or trebl$ or tripl$).ti,ab. adj (blind$ or mask$).ti,ab.)
+43 placebos/
+44 placebo$.ti,ab.
+45 random$.ti,ab.
+46 research design/
+47 or/39-46
+48 47 and 37
+49 38 or 48
+50 49 and 29

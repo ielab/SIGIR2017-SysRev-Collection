@@ -1,0 +1,71 @@
+1. exp Myocardial Ischemia/
+2. (myocard* adj5 (ischaemia or ischemia).tw.).tw.
+3. (isch?emi* adj5 heart).tw.
+4. exp Coronary Artery Bypass/
+5. (myocard* adj5 infarct*).tw.
+6. (heart adj5 infarct*).tw.
+7. angina.tw.
+8. (coronary adj5 (disease* or bypass or thrombo* or angioplast*).tw.).tw.
+9. exp Percutaneous Coronary Intervention/
+10. (percutaneous coronary adj2 (interven* or revascular*).tw.).tw.
+11. exp Angioplasty/
+12. angioplast*.tw.
+13. ((coronary or arterial).tw. adj4 dilat*).tw.
+14. endoluminal repair*.tw.
+15. exp Stents/
+16. stent*.tw.
+17. (pci or ptca).tw.
+18. exp Atherectomy/
+19. atherectom*.tw.
+20. acute coronary syndrom*.tw.
+21. or/1-8
+22. or/1-20
+23. exp Exercise Therapy/
+24. Sports/
+25. Physical Exertion/
+26. rehabilitat*.mp.
+27. (physical*.mp. adj5 (fit* or train* or therap* or activit*).mp.).mp.
+28. exp Exercise/
+29. (train* adj5 (strength* or aerobic* or exercise*).tw.).tw.
+30. ((exercise* or fitness).tw. adj3 (treatment or intervent* or program*).tw.)
+31. exp Rehabilitation/
+32. kinesiotherap*.tw.
+33. "Physical Education and Training"/
+34. Patient Education as Topic/
+35. (patient* adj5 educat*).tw.
+36. ((lifestyle or life-style).tw. adj5 (interven* or program* or treatment*).tw.)
+37. Self Care/
+38. (self adj5 (manag* or care or motivate*).tw.).tw.
+39. exp Psychotherapy/
+40. psychotherap*.tw.
+41. (psycholog* adj5 intervent*).tw.
+42. Counseling/
+43. (counselling or counseling).tw.
+44. ((behavior* or behaviour*).tw. adj5 (modify or modificat* or therap* or change).tw.)
+45. (psycho-educat* or psychoeducat*).tw.
+46. (motivat* adj5 (intervention or interv*).tw.).tw.
+47. Health Education/
+48. (health adj5 educat*).tw.
+49. (psychosocial or psycho-social).tw.
+50. (cognitive adj2 behav*).tw.
+51. or/23-33
+52. or/23-50
+53. 21 and 51
+54. 22 and 52
+55. randomized controlled trial.pt.
+56. controlled clinical trial.pt.
+57. randomized.ab.
+58. placebo.ab.
+59. drug therapy.fs.
+60. randomly.ab.
+61. trial.ab.
+62. groups.ab.
+63. 55 or 56 or 57 or 58 or 59 or 60 or 61 or 62
+64. (humans.sh. not animals/)
+65. 63 and 64
+66. 53 and 65
+67. 54 and 65
+68. 67 not 66
+69. (2009 or 2010 or 2011 or 2012 or 2013 or 2014).ed.
+70. 66 and 69
+71. 68 or 70

@@ -1,0 +1,82 @@
+1. exp lung neoplasms/
+2. carcinoma, non-small-cell lung/
+3. (lung adj2 cancer).tw.
+4. (lung adj2 carcinoma$).tw.
+5. (lung adj2 neoplas$).tw.
+6. (pulmonary adj2 neoplas$).tw.
+7. (lung$ adj2 metast$).tw.
+8. exp carcinoma,bronchogenic/
+9. exp bronchial neoplasms/
+10. (bronch$ adj2 cancer$).tw.
+11. (bronch$ adj2 carcinoma$).tw.
+12. exp pleural neoplasms/
+13. or/1-12
+14. (lung$ or bronch$ or pulmonary).tw.
+15. exp carcinoma, squamous cell/
+16. exp adenocarcinoma/
+17. ((round adj cell).tw. and (carcinoma$ or cancer$).tw.).tw.
+18. ((reserve adj cell).tw. and (carcinoma$ or cancer$).tw.).tw.
+19. ((large adj cell).tw. and (carcinoma$ or cancer$).tw.).tw.
+20. ((squamous adj cell).tw. and (carcinoma$ or cancer$).tw.).tw.
+21. adenocarcinoma$.tw.
+22. carcinoma, large cell/
+23. or/15-22
+24. 14 and 23
+25. 13 or 24
+26. exp radiotherapy/
+27. exp radiotherapy, computer-assisted/
+28. exp radiation dosage/
+29. exp radiotherapy dosage/
+30. exp radiotherapy, high-energy/
+31. exp radiotherapy,adjuvant/
+32. exp dose fractionation/
+33. exp brachytherapy/
+34. exp radiation oncology/
+35. radiotherap$.tw.
+36. (thorac$ adj2 radiotherap$).mp.
+37. (radiat$ adj2 therap$).mp.
+38. (thorac$ adj2 radiat$).mp.
+39. irradiation.tw.
+40. (endobronch$ adj2 brachytherap$).mp.
+41. or/26-40
+42. exp palliative care/
+43. exp terminal care/
+44. exp quality of life/
+45. (symptom$ adj2 control$).mp.
+46. (symptom$ adj2 relief).mp.
+47. (symptom$ adj2 manag$).mp.
+48. (palliat$ adj2 manag$).mp.
+49. exp appetite/
+50. exp fatigue/
+51. exp cough/
+52. exp dyspnea/
+53. dyspnoea.tw.
+54. exp hemoptysis/
+55. haemoptysis.tw.
+56. exp chest pain/
+57. exp deglutition disorders/
+58. exp nausea/
+59. exp weight loss/
+60. tiredness.tw.
+61. exp hoarseness/
+62. breathlessness.tw.
+63. (symptom$ adj2 palliat$).mp.
+64. (palliat$ adj2 radiat$).mp.
+65. (palliat$ adj2 intent$).mp.
+66. or/42-65
+67. 41 and 66
+68. 25 and 67
+69. randomized controlled trial.pt.
+70. controlled clinical trial.pt.
+71. randomized.ab.
+72. placebo.ab.
+73. drug therapy.fs.
+74. randomly.ab.
+75. trial.ab.
+76. groups.ab.
+77. or/69-76
+78. (humans.sh. not animals/)
+79. 77 and 78
+80. 68 and 79
+81 (201112* or 2012* or 2013* or 2014*).em.
+80 and 81

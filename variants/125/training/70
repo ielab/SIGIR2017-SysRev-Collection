@@ -1,0 +1,64 @@
+1 randomized controlled trial.pt.
+2 controlled clinical trial.pt.
+3 randomized controlled trials.sh.
+4 random allocation.sh.
+5 double blind method.sh.
+6 single blind method.sh.
+7 or/1-6
+8 (human not animals).sh.
+9 7 and 8
+10 clinical trial.pt.
+11 exp Clinical Trials/
+12 (clin$ adj25 trial$).ab,ti.
+13 ((singl$ or doubl$ or trebl$).ab,ti. adj25 (blind$ or mask$).ab,ti.)
+14 placebo$.sh.
+15 placebo$.ab,ti.
+16 random$.ab,ti.
+17 research design.sh.
+18 or/10-17
+19 18 and 8
+20 19 and 9
+21 comparative study.sh.
+22 exp evaluation studies/
+23 follow up studies.sh.
+24 prospective studies.sh.
+25 (control$ or prospectiv$ or volunteer$).ab,ti.
+26 or/21-25
+27 26 and 8
+28 27 and 9 or 20
+29 9 or 20 or 28
+30 exp amputation/
+31 amput$.mp.
+32 exp amputees/
+33 30 or 31 or 32
+34 exp artificial limbs/
+35 exp artificial leg/
+36 prosthe$.mp.
+37 34 or 35 or 36
+38 (exp rehabilitation/ or exp rehabilitation nursing/ or exp rehabilitation centers/ or exp rehabilitation, vocational/)
+39 (exp exercise therapy/ or exp exercise/ or exp exercise test/ or exp exercise movement techniques/ or exp exercise tolerance/)
+40 exp "physical education and training"/
+41 exp physical therapy techniques/
+42 exp physical fitness/
+43 (exp movement/ or exp exercise movement techniques/)
+44 exp gait/
+45 exp locomotion/
+46 exp walking/
+47 exp musculoskeletal equilibrium/
+48 exp contracture/ or exp posture/ or exp movement/
+49 (exp exertion/ or exp muscle, skeletal/ or exp muscle contraction/ or exp muscles/ or exp leg/ or exp isometric contraction/)
+50 exp weight bearing/
+51 exp weight perception/
+52 exp biomechanics/
+53 exp energy metabolism/ or exp energy intake/
+54 exp efficiency/
+55 exp kinetics/
+56 (or exp muscles/ or exp tarsal joints/ or exp ankle/ or exp electromyography/ or exp kinesiology, applied/ or exp foot/)
+57 (patient adj satisfaction).mp.
+58 exp physician's practice patterns/ or exp practice guidelines/
+59 exp clinical protocols/
+60 exp treatment outcome/
+61 exp aptitude/
+62 exp feedback/
+63 or/38-62
+64 29 and 33 and 37 and 63

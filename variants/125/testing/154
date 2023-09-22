@@ -1,0 +1,23 @@
+1 exp Measles/
+2 exp Measles virus/
+3 measles.tw.
+4 rubeola.tw.
+5 morbilli*.tw.
+6 or/1-5
+7 exp Vitamin A/
+8 vitamin a.tw,nm.
+9 retinol.tw,nm.
+10 exp Dietary Supplements/
+11 or/7-10
+12 exp Blindness/
+13 Xerophthalmia/
+14 Night Blindness/
+15 (bitot* adj1 spot*).tw.
+16 xerosis*.tw.
+17 keratomalacia.tw.
+18 blind*.tw.
+19 xerophthalmia*.tw.
+20 exp Vision Disorders/
+21 (vision* or visual* or eye* or sight*).tw.
+22 or/12-21
+23 6 and 11 and 22

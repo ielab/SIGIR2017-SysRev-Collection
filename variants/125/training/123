@@ -1,0 +1,36 @@
+1. Delirium/
+2. deliri*.mp.
+3. "acute confusion*".ti,ab.
+4. "acute organic psychosyndrome".ti,ab.
+5. "acute brain syndrome".ti,ab.
+6. "metabolic encephalopathy".ti,ab.
+7. "acute psycho-organic syndrome".ti,ab.
+8. "clouded state".ti,ab.
+9. "clouding of consciousness".ti,ab.
+10. "exogenous psychosis".ti,ab.
+11. "toxic psychosis".ti,ab.
+12. "toxic confusion".ti,ab.
+13. Delirium, Dementia, Amnestic, Cognitive Disorders/
+14. obnubilat*.ti,ab.
+15. or/1-14
+16. Primary Prevention/
+17. prevent*.mp.
+18. reduc*.ti,ab.
+19. stop*.ti,ab.
+20. taper*.ti,ab.
+21. avoid*.ti,ab.
+22. "cut* down".ti,ab.
+23. or/16-22
+24. 15 and 23
+25. randomized controlled trial.pt.
+26. controlled clinical trial.pt.
+27. randomi?ed.ab.
+28. placebo.ab.
+29. drug therapy.fs.
+30. randomly.ab.
+31. trial.ab.
+32. groups.ab.
+33. or/25-32
+34. (humans not animals).sh.
+35. 33 and 34
+36. 24 and 35

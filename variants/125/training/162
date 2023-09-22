@@ -1,0 +1,47 @@
+1 exp Anti-Infective Agents/
+2 exp Penicillins/
+3 exp Cephalosporins/
+4 exp Aminoglycosides/
+5 exp Quinolones/
+6 exp Clindamycin/
+7 exp Metronidazole/
+8 exp Trimethoprim/
+9 exp Mupirocin/
+10 exp Neomycin/
+11 exp Fusidic Acid/
+12 exp Framycetin/
+13 exp Polymyxins/
+14 exp Chlortetracycline/
+15 (antibiotic$ or antimicrobial$ or antibacterial$ or penicillin$ or cephalosporin$ or aminoglycoside$ or quinolone$ or clindamycin or metronidazole or trimethoprim or mupirocin or pseudomonic acid or neomycin or fusidic acid or framycetin or polymyxin$ or chlortetracycline).ti,ab.
+16 exp Antisepsis/
+17 antiseptic$.ti,ab.
+18 exp Soaps/
+19 exp Iodophors/
+20 exp Chlorhexidine/
+21 exp Alcohols/
+22 exp Hydrogen Peroxide/
+23 exp Benzoyl Peroxide/
+24 exp Gentian Violet/
+25 exp Hypochlorous Acid/
+26 exp Hexachlorophene/
+27 exp Potassium Permanganate/
+28 exp Silver/
+29 exp Silver Sulfadiazine/
+30 exp Honey/
+31 (soap$1 or iodophor$ or povidone or iodine or chlorhexidine or betadine or alcohol$1 or disinfectant$ or hydrogen peroxide or benzoyl peroxide or gentian violet or hypochlorit$ or eusol or dakin$ or hexachlorophene or benzalkonium or potassium permanganate or silver sulfadiazine or silver sulphadiazine or honey$).ti,ab.
+32 or/1-31
+33 exp Leg Ulcer/
+34 (varicose ulcer$ or venous ulcer$ or leg ulcer$ or stasis ulcer$ or (lower extremit$ adj ulcer$).ti,ab. or crural ulcer$ or ulcus cruris).ti,ab.
+35 or/33-34
+36 32 and 35
+37 randomized controlled trial.pt.
+38 controlled clinical trial.pt.
+39 randomized.ab.
+40 placebo.ab.
+41 clinical trials as topic.sh.
+42 randomly.ab.
+43 trial.ti.
+44 or/37-43
+45 (humans not animals).sh.
+46 44 and 45
+47 36 and 46

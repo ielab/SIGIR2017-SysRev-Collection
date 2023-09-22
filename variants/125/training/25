@@ -1,0 +1,15 @@
+1. exp Fluorides, topical/
+2. (fluoride$ or fluor or "PPM F" or PPMF or APF or NAF or "Sodium F" or "Amine F" or SNF2 or "Stannous F" or "phosphat$ F" or "acidulat$ F" or "acidulat$ fluor$" or "phosphat$ fluor$" or fluorphosphat$ or "amin$ fluor$" or "sodium$ fluor$" or "stannous$ fluor$" or SMFP or MFP or monofluor$).mp.
+3. (varnish$ or lacquer$ or laquer$ or lacker$ or lakk$ or polyurethane$).mp.
+4. 2 and 3
+5. 1 or 4
+6. "Pit and fissure sealants"/
+7. (fiss$ adj6 seal$).mp.
+8. (dental adj3 seal$).mp.
+9. (compomer$ adj4 seal$).mp.
+10. (composite$ adj4 seal$).mp.
+11. exp Glass ionomer cements/
+12. exp Resin cements/
+13. ("glass ionomer$" or glassionomer$ or "cermet cement$" or "resin cement$").mp.
+14. or/6-13
+15. 5 and 14
