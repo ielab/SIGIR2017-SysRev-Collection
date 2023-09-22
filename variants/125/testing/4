@@ -1,0 +1,72 @@
+1 exp Menorrhagia/
+2 menorrhagia.tw.
+3 hypermenorrhoea.tw.
+4 excessive menstrua$.tw.
+5 dysfunctional uterine bleeding.tw.
+6 heavy menstrua$.tw.
+7 abnormal uterine bleeding.tw.
+8 abnormal menstrua$ bleeding.tw.
+9 iron deficient anaemia.tw.
+10 or/1-9
+11 (exp endometrial ablation techniques/ or exp hysterectomy/ or exp hysterectomy, vaginal/ or exp hysteroscopy/)
+12 hysterectom$.tw.
+13 endometrial ablation.tw.
+14 hysteroscop$.tw.
+15 (TAH or LAVH or TCRE).tw.
+16 transcervical resection$.tw.
+17 laser ablation.tw.
+18 exp Electrosurgery/
+19 electrosurgery.tw.
+20 (rollerball or thermal balloon).tw.
+21 (hyperthermia or thermotherap$).tw.
+22 photodynamic therap$.tw.
+23 exp Cryosurgery/
+24 (cryoablation or microwave or laser$ or Cryosurger$).tw.
+25 surgical treatment$.tw.
+26 endometrial resection.tw.
+27 Balloon.tw.
+28 (catheter ablation or radiofrequency or saline irrigation).tw.
+29 exp Catheter Ablation/
+30 ablation.tw.
+31 or/11-30
+32 (medical therap$ or medical treatment$).tw.
+33 prostaglandin synthetase inhibitor$.mp. or PGSI$.tw.
+34 exp Mefenamic Acid/
+35 Mefenamic Acid.tw.
+36 exp Anti-Inflammatory Agents, Non-Steroidal/
+37 Nonsteroidal anti inflammator$.tw.
+38 NSAID$.tw.
+39 Non steroidal anti inflammator$.tw.
+40 flurbiprofen.tw.
+41 FLURBIPROFEN/
+42 meclofenamic acid.tw.
+43 Meclofenamic Acid/
+44 (ibuprofen.tw. or IBUPROFEN/)
+45 (naproxen.tw. or NAPROXEN/)
+46 (diclofenac.tw. or DICLOFENAC/)
+47 gonadotrophin-releasing hormone analogue$.tw.
+48 (tranexamic acid.tw. or Tranexamic Acid/)
+49 (progestogen.tw. or Progestins/)
+50 (norethisterone.tw. or Norethindrone/)
+51 (medroxyprogesterone acetate.tw. or Medroxyprogesterone 17-Acetate/)
+52 Contraceptives, Oral, Combined/
+53 (danazol.tw. or DANAZOL/)
+54 (Levonorgestrel.tw. or Levonorgestrel/)
+55 LNG-IUS.tw.
+56 mirena.tw.
+57 (antifibrinolytic.tw. or Antifibrinolytic Agents/)
+58 Combined oral contraceptive$.tw.
+59 or/32-58
+60 59 and 10 and 31
+61 randomized controlled trial.pt.
+62 controlled clinical trial.pt.
+63 randomized.ab.
+64 placebo.tw.
+65 clinical trials as topic.sh.
+66 randomly.ab.
+67 trial.ti.
+68 (crossover or cross-over or cross over).tw.
+69 or/61-68
+70 humans.sh.
+71 69 and 70
+72 60 and 71

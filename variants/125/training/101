@@ -1,0 +1,52 @@
+exp osteoarthritis/
+osteoarthr$.tw.
+(degenerative adj2 arthritis).tw.
+arthrosis.tw.
+or/1-4
+Knee/
+exp Knee Joint/
+knee$.tw.
+or/6-8
+exp EXERCISE/
+exp exertion/
+exp Physical Fitness/
+exp Exercise Test/
+exp Exercise Tolerance/
+exp Sports/
+exp PLIABILITY/
+exp Physical Endurance/
+exertion$.tw.
+exercis$.tw.
+sport$.tw.
+((physical or motion).tw. adj5 (fitness or therap$).tw.)
+(physical$ adj2 endur$).tw.
+((strength$ or isometric$ or isotonic$ or isokinetic$ or aerobic$ or endurance or  weight$).tw. adj5 (exercis$ or train$).tw.).tw.
+exp physical therapy modalities/
+physiotherap$.tw.
+manipulat$.tw.
+kinesiotherap$.tw.
+exp Rehabilitation/
+rehab$.tw.
+(skate$ or skating).tw.
+run$.tw.
+jog$.tw.
+treadmill$.tw.
+swim$.tw.
+bicycl$.tw.
+(cycle$ or cycling).tw.
+walk$.tw.
+(row or rows or rowing).tw.
+muscle strength$.tw.
+or/10-39
+randomized controlled trial.pt.
+controlled clinical trial.pt.
+randomized.ab.
+placebo.ab.
+drug therapy.fs.
+randomly.ab.
+trial.ab.
+groups.ab.
+41 or 42 or 43 or 44 or 45 or 46 or 47 or 48
+humans.sh.
+49 and 50
+5 and 9 and 40 and 51

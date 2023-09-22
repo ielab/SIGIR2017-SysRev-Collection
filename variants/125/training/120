@@ -1,0 +1,18 @@
+1. randomised controlled trial.pt.
+2. controlled clinical trial.pt.
+3. randomised.ab.
+4. placebo.ab.
+5. clinical trials as topic.sh.
+6. randomly.ab.
+7. trial.ti.
+8. 1 or 2 or 3 or 4 or 5 or 6 or 7
+9.  (humans.sh. not animals/)
+10. 8 and 9
+11. (epilep$ or seizure$ or convuls$).tw.
+12. exp Epilepsy/
+13. exp Seizures/
+14. 11 or 12 or 13
+15. stiripentol.tw.
+16. Diacomit.tw.
+17. 15 or 16
+18. 10 and 14 and 17

@@ -1,0 +1,33 @@
+1. exp OSTEOARTHRITIS/
+2. osteoarthr$.tw.
+3. (degenerative adj2 arthritis).tw.
+4. or/1-3
+5. exp CHONDROITIN/
+6. chondroitin.sh,rn,tw.
+7. 5 or 6
+8. 4 and 7
+9. randomized controlled trial.pt.
+10. controlled clinical trial.pt.
+11. randomized controlled trials.sh.
+12. random allocation.sh.
+13. double blind method.sh.
+14. single-blind method.sh.
+15. clinical trial.pt.
+16. clinical trials.sh.
+17. clinical trial.tw.
+18. ((singl$ or doubl$ or trebl$ or tripl$).tw. and (mask$ or blind$).tw.)
+19. placebos.sh.
+20. placebo$.tw.
+21. random$.tw.
+22. Research Design/
+23. comparative study.sh.
+24. evaluation studies.sh.
+25. follow-up studies.sh.
+26. prospective studies.sh.
+27. control$.tw.
+28. prospectiv$.tw.
+29. volunteer$.tw.
+30. or/9-29
+31. (human not animal).mp.
+32. 30 and 31
+33. 8 and 32

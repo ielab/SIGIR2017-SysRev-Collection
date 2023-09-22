@@ -1,0 +1,27 @@
+1. exp Blood Transfusion, Autologous/
+2. exp Blood Loss, Surgical/
+3. exp Blood Transfusion/
+4. (Autohaemotransfusion* or Auto-haemotransfusion* or Autohemotransfusion* or Auto-hemotransfusion* or Autotransfusion* or Auto-transfusion* or (Autologous adj5 (Blood or Plasma).ab,ti.).ab,ti.).ab,ti.
+5. ((cell* or blood) adj5 (transfusion* or salvage or save*)).ab,ti.
+6. 1 or 2 or 3 or 4 or 5
+7. exp Abdominal Injuries/
+8. exp thoracic injuries/
+9. exp Wounds, Penetrating/
+10. (abdominal or abdomen or chest or thoracic or trunk).ab,ti.
+11. 9 and 10
+12. ((abdominal or abdomen or chest or thoracic or trunk).ab,ti. adj3 (trauma* or injur* or penetrat* or stab*).ab,ti.).ab,ti.
+13. ((Splenic or spleen or stomach or gastric).ab,ti. adj3 (rupture* or burst*).ab,ti.).ab,ti.
+14. ((heart or cardiac or aortic or aorta*).ab,ti. adj3 rupture*).ab,ti.
+15. 7 or 8 or 11 or 12 or 13 or 14
+16. 6 and 15
+17. randomized.ab,ti.
+18. randomized controlled trial.pt.
+19. controlled clinical trial.pt.
+20. placebo.ab.
+21. clinical trials as topic.sh.
+22. randomly.ab.
+23. trial.ti.
+24. or/17-23
+25. (humans not animals).sh.
+26. 24 and 25
+27. 26 and 16

@@ -1,0 +1,10 @@
+1. (cerebrovascular disorders/ or basal ganglia cerebrovascular disease/ or brain ischemia/ or exp brain infarction/ or hypoxia-ischemia, brain/ or carotid artery diseases/ or carotid artery thrombosis/ or carotid artery, internal, dissection/ or intracranial arterial diseases/ or cerebral arterial diseases/ or infarction, anterior cerebral artery/ or infarction, middle cerebral artery/ or infarction, posterior cerebral artery/ or exp "intracranial embolism and thrombosis"/ or exp stroke/ or vertebral artery dissection/)
+2. (isch?emi$ adj6 (stroke$ or apoplex$ or cerebral vasc$ or cerebrovasc$ or cva or attack$).tw.).tw.
+3. ((brain or cerebr$ or cerebell$ or vertebrobasil$ or hemispher$ or intracran$ or intracerebral or infratentorial or supratentorial or middle cerebr$ or mca$ or anterior circulation).tw. adj5 (isch?emi$ or infarct$ or thrombo$ or emboli$ or occlus$ or hypoxi$).tw.).tw.
+4. 1 or 2 or 3
+5. (mailuoning or mai-luo-ning or mai luo ning).mp.
+6. (ayapin or scoparone).mp.
+7. 5 or 6
+8. 4 and 7
+9. (humans.sh. not animals/)
+10. 8 and 9

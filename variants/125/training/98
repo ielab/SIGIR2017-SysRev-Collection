@@ -1,0 +1,28 @@
+1 Lymphoma/
+2 exp Hodgkin Disease/
+3 Germinoblastom$.tw,kf,ot.
+4 Reticulolymphosarcom$.tw,kf,ot.
+5 Hodgkin$.tw,kf,ot.
+6 (malignan$ adj2 (lymphogranulom$ or granulom$).tw,kf,ot.).tw,kf,ot.
+7 or/1-6
+8 exp Positron-Emission Tomography/
+9 (pet$ or petscan$ or (Positron$ and emission$).tw,kf,ot. or (Positron$ and tomography$).tw,kf,ot.).tw,kf,ot.
+10 (pet$ and (deoxy$ or fluor$ or 18fluor$ or fdg$ or 18fdg$ or fludeoxy$).tw,kf,ot.).tw,kf,ot.
+11 exp Tomography, Emission-Computed/
+12 (pet$ or petscan$).tw,kf,ot.
+13 (tomograph$ or tomographs$ or tomographic$ or tomography$ or tomographies$).tw,kf,ot.
+14 emission$.tw,kf,ot.
+15 13 and 14
+16 8 or 9 or 10 or 11 or 12 or 15
+17 7 and 16
+18 randomized controlled trial.pt.
+19 controlled clinical trial.pt.
+20 randomi?ed.ab.
+21 placebo.ab.
+22 clinical trials as topic.sh.
+23 randomly.ab.
+24 trial.ti.
+25 or/18-24
+26 humans.sh.
+27 25 and 26
+28 17 and 27

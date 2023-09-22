@@ -1,0 +1,41 @@
+1 (psychotherapy/ or exp psychoanalytic therapy/ or exp psychotherapeutic processes/ or psychotherapy, brief/ or psychotherapy, multiple/ or psychotherapy, rational-emotive/ or exp socioenvironmental therapy/)
+2 Psychoanalytic Interpretation/
+3 (psychotherap$ or psycho-therap$ or psychoanalytic$ or psycho-analytic$ or psychodynamic$ or psycho-dynamic$).tw.
+4 Family Therapy/
+5 or/1-4
+6 (exp maternal behavior/ or parent-child relations/ or father-child relations/ or mother-child relations/ or parenting/ or paternal behavior/)
+7 (Mothers/px or Fathers/px or Parents/px)
+8 Object Attachment/
+9 Reactive Attachment Disorder/
+10 ((attachment adj3 disorder$) or (insecure adj3 attachment$) or (secure adj3 attachment$) or (dysregulation adj3 disorder$)).tw.
+11 ((parent$ or mother$ or maternal$ or father$ or paternal$ or infant$ or child$) adj3 (attachment$ or bond$ or interaction$ or relationship$ or dyad$ or triad$)).tw.
+12 or/6-11
+13 exp infant/
+14 infant behavior/
+15 (baby or babies or infant$ or child$ or toddler$).tw.
+16 or/13-15
+17 5 and 12 and 16
+18 (parent$ adj3 (baby or babies or infant$ or child$ or toddler$ or psychother$ or psycho-therap$ or psychodynamic$ or psycho-dynamic$).tw.).tw.
+19 (mother$ adj3 (baby or babies or infant$ or child$ or toddler$ or psychother$ or psycho-therap$ or psychodynamic$ or psycho-dynamic$).tw.).tw.
+20 (maternal$ adj3 (baby or babies or infant$ or child$ or toddler$ or psychother$ or psycho-therap$ or psychodynamic$ or psycho-dynamic$).tw.).tw.
+21 (father$ adj3 (baby or babies or infant$ or child$ or toddler$ or psychother$ or psycho-therap$ or psychodynamic$ or psycho-dynamic$).tw.).tw.
+22 (paternal$ adj3 (baby or babies or infant$ or child$ or toddler$ or psychother$ or psycho-therap$ or psychodynamic$ or psycho-dynamic$).tw.).tw.
+23 (parent$ adj3 (baby or babies or infant$ or child$ or toddler$ or psychoanalytic$ or psycho-analytic$ or psychodynamic$ or psycho-dynamic$).tw.).tw.
+24 (mother$ adj3 (baby or babies or infant$ or child$ or toddler$ or psychoanalytic$ or psycho-analytic$ or psychodynamic$ or psycho-dynamic$).tw.).tw.
+25 (maternal$ adj3 (baby or babies or infant$ or child$ or toddler$ or psychoanalytic$ or psycho-analytic$ or psychodynamic$ or psycho-dynamic$).tw.).tw.
+26 (father$ adj3 (baby or babies or infant$ or child$ or toddler$ or psychoanalytic$ or psycho-analytic$ or psychodynamic$ or psycho-dynamic$).tw.).tw.
+27 (paternal$ adj3 (baby or babies or infant$ or child$ or toddler$ or psychoanalytic$ or psycho-analytic$ or psychodynamic$ or psycho-dynamic$).tw.).tw.
+28 or/18-27
+29 17 or 28
+30 randomized controlled trial.pt.
+31 controlled clinical trial.pt.
+32 randomized.ab.
+33 placebo.ab.
+34 drug therapy.fs.
+35 randomly.ab.
+36 trial.ab.
+37 groups.ab.
+38 30 or 31 or 32 or 33 or 34 or 35 or 36 or 37
+39 (humans.sh. not exp animals/)
+40 38 and 39
+41 29 or 40

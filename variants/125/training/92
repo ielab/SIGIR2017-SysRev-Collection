@@ -1,0 +1,4 @@
+1. (exp Tracheostomy/ or tracheo?tom*.af.)
+2. (Respiration, Artificial/ or Laryngeal Masks/ or Positive-Pressure Respiration/ or Pulmonary Ventilation/ or Ventilators, Mechanical/ or High-Frequency Ventilation/ or ((early or precocious or premature).ti,ab. and (late or tardy).ti,ab.).ti,ab. or artificial respiration*.ti,ab. or (ventilat* adj3 (mechanical or high?frequency or oscillation or positive pressure or jet or weaning or pulmonary).mp.).mp. or (respirat* or ventilator*).ti,ab. or chest tube*.ti,ab. or ((airway* or laryngeal).mp. adj3 mask*).mp.)
+3. ((randomized controlled trial.pt. or controlled clinical trial.pt. or randomized.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab. or trial.ti.) and (humans.sh. not animals.sh))
+4. 1 and 2 and 3

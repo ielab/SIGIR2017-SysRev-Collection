@@ -1,0 +1,17 @@
+1 foster home care/
+2 ((kin or kinship).tw. adj3 (care$ or caring).tw.).tw.
+3 ((kin or kinship).tw. adj3 foster$).tw.
+4 ((kin or kinship).tw. adj3 placement$).tw.
+5 ((family or families).tw. adj3 foster$).tw.
+6 ((family or families).tw. adj3 placement$).tw.
+7 ((family or families).tw. adj3 substitute$).tw.
+8 (relative$ adj3 substitute$).tw.
+9 (relative$ adj3 foster$).tw.
+10 custodial grandparent$.tw.
+11 Infant/
+12 exp Child/
+13 adolescent/
+14 (baby or babies or infant$ or toddler$ or PRESCHOOL$ or PRE-SCHOOL$ or CHILD$ or BOY$ or GIRL$ or preteen or teen$ or adolescen$ or youth$ or young person$ or young people).tw.
+15 or/11-14
+16 or/1-10
+17 15 and 16

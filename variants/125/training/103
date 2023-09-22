@@ -1,0 +1,28 @@
+1 Pneumonia, Mycoplasma/
+2 (mycoplasma adj3 pneumonia*).tw.
+3 primary atypical pneumonia.tw.
+4 or/1-3
+5 Mycoplasma pneumoniae/
+6 (mycoplasma pneumoniae or "M. pneumoniae").tw.
+7 Mycoplasma Infections/
+8 mycoplasma.tw.
+9 or/5-8
+10 exp Pneumonia/
+11 (pneumon* or bronchopneumon* or pleuropneumon*).tw.
+12 exp Bronchitis/
+13 (bronchit* or tracheobronchit*).tw.
+14 Respiratory Sounds/
+15 wheez*.tw.
+16 exp Respiratory Tract Infections/
+17 (respiratory tract infection* or acute respiratory infection* or lower respiratory infection* or lower respiratory tract infection* or lrti).tw.
+18 or/10-17
+19 9 and 18
+20 4 or 19
+21 exp Anti-Bacterial Agents/
+22 exp Macrolides/
+23 exp Quinolones/
+24 exp Tetracyclines/
+25 antibiotic*.tw,nm.
+26 (macrolide* or erythromycin* or roxithromycin* or clarithromycin* or azithromycin*).tw,nm.
+27 or/21-26
+28 20 and 27

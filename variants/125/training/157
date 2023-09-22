@@ -1,0 +1,41 @@
+1. exp osteoarthritis/
+2. osteoarthr$.tw.
+3. (degenerative adj2 arthritis).tw.
+4. or/1-3
+5. exp Self Care/
+6. ((self or symptom$).tw. adj (care or help or manag$ or directed or monitor$ or efficacy or admin$).tw.)
+7. Patient Education as Topic/
+8. ((health or patient$).tw. adj2 (educat$ or information).tw.)
+9. exp Consumer Participation/
+10. ((patient$ or consumer$).tw. adj part$).tw.
+11. "power (psychology)"/
+12. empower$.tw.
+13. Holistic Health/
+14. (holistic or wholistic).tw.
+15. exp Rehabilitation/
+16. rehab$.tw.
+17. "Activities of Daily Living"/
+18. (activit$ adj2 daily adj living).tw.
+19. social support/
+20. (social adj (support or network$).tw.).tw.
+21. (support adj system$).tw.
+22. exp Adaptation, Psychological/
+23. (psychologic$ adj (adjust$ or adapt$).tw.).tw.
+24. (cope or copes or coping).tw.
+25. exp Behavior Therapy/
+26. (adapt$ adj behav$).tw.
+27. (behav$ adj (therap$ or intervention$).tw.).tw.
+28. or/5-27
+29. 4 and 28
+30. randomized controlled trial.pt.
+31. controlled clinical trial.pt.
+32. randomized.ab.
+33. placebo.ab.
+34. drug therapy.fs.
+35. randomly.ab.
+36. trial.ab.
+37. groups.ab.
+38. or/30-37
+39. (humans not animals).sh.
+40. 38 and 39
+41. 29 and 40

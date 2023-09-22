@@ -1,0 +1,23 @@
+1. Glaucoma/
+2. ((congenital or neonat$ or pediatric$ or paediatric$ or child$).tw. adj5 glaucoma$).tw.
+3. or/1-2
+4. exp trabeculectomy/
+5. goniotom$.tw.
+6. trabeculotom$.tw.
+7. trabeculectom$.tw.
+8. trabectom$.tw.
+9. exp filtering surgery/
+10. ((surg$ or operat$).tw. adj3 filtrat$).tw.
+11. exp sclerostomy/
+12. sclerostom$.tw.
+13. sclerectom$.tw.
+14. viscocanalostom$.tw.
+15. (glaucoma$ adj4 surg$).tw.
+16. exp glaucoma drainage implants/
+17. (molteno or ahmed or baerveldt or krupin or schocket or joseph or optimed).tw.
+18. ((tube$ or device$ or drain$ or shunt$ or implant$ or seton$).tw. adj6 glaucoma$).tw.
+19. laser coagulation/
+20. cyclophotocoagulat$.tw.
+21. cyclocryotherap$.tw.
+22. or/4-21
+23. 3 and 22

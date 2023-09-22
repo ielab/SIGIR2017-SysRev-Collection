@@ -1,0 +1,29 @@
+1. exp Dementia/
+2. Delirium/
+3. Wernicke Encephalopathy/
+4. Delirium, Dementia, Amnestic, Cognitive Disorders/
+5. dement*.mp.
+6. alzheimer*.mp.
+7. (lewy* adj2 bod*).mp.
+8. deliri*.mp.
+9. (chronic adj2 cerebrovascular).mp.
+10. ("organic brain disease" or "organic brain syndrome").mp.
+11. ("normal pressure hydrocephalus" and "shunt*").mp.
+12. "benign senescent forgetfulness".mp.
+13. (cerebr* adj2 deteriorat*).mp.
+14. (cerebral* adj2 insufficient*).mp.
+15. (pick* adj2 disease).mp.
+16. (creutzfeldt or jcd or cjd).mp.
+17. huntington*.mp.
+18. binswanger*.mp.
+19. korsako*.mp.
+20. or/1-19
+21. respite.ti,ab.
+22. daycare.ti,ab.
+23. ("caregiver* relief" or "carer* relief").ti,ab.
+24. Respite Care/
+25. (care adj3 relief).ti,ab.
+26. or/21-25
+27. 20 and 26
+28. (2007 or 2008 or 2009 or 2010 or 2011 or 2012).ed.
+29. 27 and 28

@@ -1,0 +1,32 @@
+1   exp Central Nervous System Depressants/
+2   exp Anesthesia/
+3   exp Benzodiazepines/
+4   exp Barbiturates/
+5   exp Histamine Antagonists/
+6   exp Psychotropic Drugs/
+7   (benzodiazepine* or barbiturate* or anaesthesia or anesthesia or opioid* or antipsychotic* or anti-psychotic* or antihistamine* or anti-histamine* or hypnotic* or sedat* or tranquil*).mp.
+8   (symptom* adj6 (relie* or control*).mp.).mp.
+9   1 or 2 or 3 or 4 or 5 or 6 or 7 or 8
+10 Palliative Care/
+11 exp Terminal Care/
+12 Terminally Ill/
+13 palliat*.mp.
+14 (terminal* adj6 (care or caring or ill*).mp.).mp.
+15 (terminal-stage* or terminal stage* or dying or (close adj6 death).mp.).mp.
+16 (end adj3 life).mp.
+17 hospice*.mp.
+18 ((end-stage* or end stage*).mp. adj6 (disease* or ill* or care or caring).mp.).mp.
+19 ((incurable or advanced).mp. adj6 (ill* or disease*).mp.)
+20 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19
+21 9 and 20
+22 randomized controlled trial.pt.
+23 controlled clinical trial.pt.
+24 randomized.ab.
+25 placebo.ab.
+26 clinical trials as topic.sh.
+27 randomly.ab.
+28 trial.ti.
+29 exp Cohort Studies/
+30 (cohort* or observational* or comparative* or quantitative* or (before and after).mp. or (interrupted and time).mp.).mp.
+31 22 or 23 or 24 or 25 or 26 or 27 or 28 or 29 or 30
+32 21 and 31

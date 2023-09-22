@@ -1,0 +1,34 @@
+1   exp Central Nervous System Neoplasms/
+2   ((central nervous system or CNS).mp. adj5 (cancer* or tumor* or tumour* or neoplas* or carcinoma* or metastat* or malignan*).mp.).mp.
+3   ((brain or intracranial or intra-cranial or cerebr*).mp. adj5 (cancer* or tumor* or tumour* or neoplas* or carcinoma* or metastat* or malignan*).mp.).mp.
+4   exp neoplasms, neuroepithelial/
+5   (glioma* or astrocytoma* or xanthoastrocytoma* or glioblastoma* or gliosarcoma* or oligodendrogli* or oligoastrocyt* or ependym* or subependym* or astroblastoma* or ganglioglioma* or gangliocytoma* or neurocytoma* or liponeurocytoma* or pineocytoma* or pineoblastoma* or medulloblastoma* or neuroblastoma* or ganglioneuroblastoma*or medulloepithelioma*).mp.
+6   ((glioneural or neuroectodermal or embryonal or neuroepithelial or pineal or choroid plexus or teratoid or rhabdoid).mp. adj5 (tumor* or tumour*).mp.).mp.
+7   1 or 2 or 3 or 4 or 5 or 6
+8   Fluorescence/
+9   Aminolevulinic Acid/
+10 fluorescen*.mp.
+11 (aminolevulinic acid or 5-aminolevulinic acid).mp.
+12 ALA.mp.
+13 exp Magnetic Resonance Imaging/
+14 (MRI or magnetic resonance imag*).mp.
+15 exp Ultrasonography/
+16 (ultrasound or ultrasonography).mp.
+17 3D.mp.
+18 Neuronavigation/
+19 Surgery, Computer-Assisted/
+20 (navigat* or neuronavigat* or neuro-navigat*).mp.
+21 ((intra-operative or intraoperative).mp. adj5 (technolog* or modalit*).mp.).mp.
+22 8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20 or 21
+23 7 and 22
+24 randomized controlled trial.pt.
+25 controlled clinical trial.pt.
+26 randomized.ab.
+27 placebo.ab.
+28 clinical trials as topic.sh.
+29 randomly.ab.
+30 trial.ti.
+31 24 or 25 or 26 or 27 or 28 or 29 or 30
+32 23 and 31
+33 (humans.sh. not animals/)
+34 32 and 33

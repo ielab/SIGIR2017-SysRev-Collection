@@ -1,0 +1,30 @@
+1. Lewy Bodies/
+2. dement*.ti,ab.
+3. (LDB or DLB or LBD).ti,ab.
+4. (lewy* adj2 bod*).ti,ab.
+5. Lewy Body Disease/
+6. or/1-5
+7. DAT scan*.ti,ab.
+8. Dopamine Plasma Membrane Transport Proteins/
+9. "dopamine transporter".ti,ab.
+10. Dopaminergic Neurons/
+11. FP-CIT.ti,ab.
+12. DaTSCAN.ti,ab.
+13. ("123I-β-CIT" or "[123I]β-CIT" or "[123I]beta-CIT").ti,ab.
+14. "123I-FP-CIT".ti,ab.
+15. SPECT.ti,ab.
+16. "[99mTc]TRODAT-1".ti,ab.
+17. "[123I]PE2I".ti,ab.
+18. "[123I]altropane".ti,ab.
+19. "[11C]cocaine".ti,ab.
+20. "[3H]WIN".ti,ab.
+21. "[11C]altropane".ti,ab.
+22. ("[11C]/[18F]beta-CFT" or "[11C]/[18F]β-CFT").ti,ab.
+23. "[11C]FE-CIT".ti,ab.
+24. "[11C]dMP".ti,ab.
+25. Tomography, Emission-Computed, Single-Photon/
+26. SPET.ti,ab.
+27. "single photon emission tomography".ti,ab.
+28. "single photon emission computed tomography".ti,ab.
+29. or/7-28
+30. 6 and 29

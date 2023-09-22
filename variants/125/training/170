@@ -1,0 +1,7 @@
+1. (Beta-Lactams/ or Penicillins/ or Cephalosporins/ or Carbapenems/ or Imipenem/ or Ceftazidime/ or Cefotaxime/ or Amoxicillin-Potassium Clavulanate Combination/ or beta-lactam*.ti,ab. or (co?amoxiclav* or cephalosporin* or ceftazidim* or cefotaxim* or carbapenem* or imipenem* or meropenem*).mp. or (beta-lactam* adj5 (combin* or mono*).mp.).mp.)
+2. (Aminoglycosides/ or (aminoglycoside* or netilmicin* or gentamicin* or amikacin* or tobramycin* or streptomycin* or isepamicin* or sisomicin* or combinat*).ti,ab. or Drug-Therapy-Combination/)
+3. 1 or 1 and 2
+4. (pneumonia/ or exp Sepsis/ or Shock, Septic/ or exp Bacteremia/ or Infection/ or exp Endocarditis, Bacterial/ or Endocarditis/ or exp Endocarditis, Subacute Bacterial/ or Staphylococcus/ or Streptococcus/ or (pneumonia* or infect* or sepsis* or septic* or bacter*).ti,ab.)
+5. 3 and 4 
+6. (((randomized controlled trial or controlled clinical trial).pt. or randomized.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab. or trial.ti.) and (humans not animals).sh.)
+7. 6 and 5

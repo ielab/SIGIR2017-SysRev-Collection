@@ -1,0 +1,6 @@
+1. (tuberculosis or TB).tw.
+2. Mycobacterium tuberculosis/
+3. (Tuberculosis, Multidrug-Resistant/ or Tuberculosis/ or Tuberculosis, Pulmonary/)
+4. 1 or 2 or 3
+5. (Xpert or GeneXpert or cepheid or near* patient).tw.
+6. 4 and 5

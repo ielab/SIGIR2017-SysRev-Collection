@@ -1,0 +1,11 @@
+#1 exp Ethanol/
+#2 exp Acetic Acid/
+#3 exp Injections/
+#4 (((ethanol or alcohol or acetic acid or vinegar).mp. and (inject* or ablati*).mp.) or PEI or PAI or PAAI).mp.
+#5 1 or 2 or 3 or 4
+#6 exp Liver Neoplasms/
+#7 (((liver or hepatic or hepatocellular or hepato-cellular).mp. and (carcinom* or cancer* or neoplasm* or malign* or tumo*).mp.) or HCC).mp.
+#8 6 or 7
+#9 5 and 8
+#10 (random* or blind* or placebo* or meta-analys*).mp.
+#11 9 and 10

@@ -1,0 +1,93 @@
+1. (acoustic stimulation.mp. or exp Acoustic Stimulation/)
+2. (acupressure.mp. or exp Acupressure/)
+3. (exp Acupuncture/ or acupuncture.mp.)
+4. exp Medicine, African Traditional/
+5. (anthroposophy.mp. or exp Anthroposophy/)
+6. (antioxidants.mp. or exp Antioxidants/)
+7. (arabic medicine.mp. or exp Medicine, Arabic/)
+8. (aromatherapy.mp. or exp Aromatherapy/)
+9. (art therapy.mp. or exp Art Therapy/)
+10. auricular therapy.mp.
+11. exp Medicine, Ayurvedic/
+12. ayurved$.mp.
+13. (biofeedback.mp. or exp Biofeedback, Psychology/)
+14. (breathing exercise$.mp. or exp Breathing Exercises/)
+15. exp Color Therapy/
+16. (color therap$ or colour therap$).mp.
+17. (exp complementary therapies/ or exp acupuncture therapy/ or exp anthroposophy/ or exp auriculotherapy/ or exp holistic health/ or exp homeopathy/ or exp horticultural therapy/ or exp medicine, traditional/ or exp mesotherapy/ or exp mind-body therapies/ or exp musculoskeletal manipulations/ or exp naturopathy/ or exp organotherapy/ or exp phytotherapy/ or exp reflexotherapy/ or exp rejuvenation/ or exp sensory art therapies/ or exp speleotherapy/ or exp spiritual therapies/)
+18. (dance therapy.mp. or exp Dance Therapy/)
+19. exp Medicine, East Asian Traditional/
+20. (eclecticism.mp. or exp Eclecticism, Historical/)
+21. (electroacupuncture.mp. or exp Electroacupuncture/)
+22. (faith healing.mp. or exp Faith Healing/)
+23. holistic health.mp.
+24. homeopathy.mp.
+25. horticultural therapy.mp.
+26. (hypnosis.mp. or exp Hypnosis/)
+27. exp "Imagery (Psychotherapy)"/
+28. (kampo.mp. or exp Medicine, Kampo/)
+29. (exp Kinesiology, Applied/ or kinesiology.mp.)
+30. (laughter therapy.mp. or exp Laughter Therapy/)
+31. (magic.mp. or exp Magic/)
+32. (manipulation.mp. or exp Manipulation, Chiropractic/)
+33. (exp Massage/ or massage.mp.)
+34. (meditation.mp. or exp Meditation/)
+35. (mental healing.mp. or exp Mental Healing/)
+36. (mesotherapy.mp. or exp Mesotherapy/)
+37. (moxibustion.mp. or exp Moxibustion/)
+38. (music therapy.mp. or exp Music Therapy/)
+39. (exp Naturopathy/ or naturopath$.mp.)
+40. natural remed$.mp.
+41. (occultism.mp. or exp Occultism/)
+42. (exp Psychodrama/ or psychodrama.mp.)
+43. drama therapy.mp.
+44. (Psychology/ or psychology.mp.)
+45. (psychophysiology.mp. or exp Psychophysiology/)
+46. mind body relation$.mp.
+47. (radiesthesia.mp. or exp Radiesthesia/)
+48. (reflexotherapy.mp. or exp Reflexotherapy/)
+49. (rejuvenation.mp. or exp Rejuvenation/)
+50. (relaxation therapy.mp. or exp Relaxation Therapy/)
+51. (shamanism.mp. or exp Shamanism/)
+52. (speleotherapy.mp. or exp Speleotherapy/)
+53. Tai Ji/
+54. tai chi.mp.
+55. (therapeutic touch.mp. or exp Therapeutic Touch/)
+56. (exp Medicine, Unani/ or unani).mp.
+57. (witchcraft.mp. or exp Witchcraft/)
+58. (yoga.mp. or exp Yoga/)
+59. visualisation.mp.
+60. immunoaugmentation.mp.
+61. Tissue Therapy/
+62. Medicine, Chinese Traditional/
+63. tcm.mp.
+64. antineoplaston.mp.
+65. chelation.mp.
+66. shark.mp.
+67. electromagnetic$.mp.
+68. "Tea Tree Oil"/
+69. Aloe/
+70. reflexology.mp.
+71. reiki.mp.
+72. herb$.mp.
+73. physical therapy.mp.
+74. cupping therapy.mp.
+75. therapeutic exercise.mp.
+76. folk.mp.
+77. bioelectromagnetic$.mp.
+78. Diet/
+79. nutrition.mp.
+80. Diet, Macrobiotic/
+81. gerson.mp.
+82. (support group.mp. or Self-Help Groups/)
+83. or/1-82
+84. (acne.mp. or exp Acne Vulgaris/)
+85. randomized controlled trial.pt.
+86. controlled clinical trial.pt.
+87. randomized.ab.
+88. placebo.ab.
+89. clinical trials as topic.sh.
+90. randomly.ab.
+91. trial.ti.
+92. 85 or 86 or 87 or 88 or 89 or 90 or 91
+95. 83 and 84 and 92

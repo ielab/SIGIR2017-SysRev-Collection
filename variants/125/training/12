@@ -1,0 +1,40 @@
+1. exp Colchicine/
+2. colcemid*.tw.
+3. demecolcine.tw.
+4. colchamine.tw.
+5. lumicolchicine*.tw.
+6. gamma-lumicolchicine*.tw.
+7. beta-lumicolchicine.tw.
+8. colchicin*.tw.
+9. colchichine.tw.
+10. aqua colchin.tw.
+11. colchicum.tw.
+12. colchily.tw.
+13. colchimedio.tw.
+14. colchiquim.tw.
+15. colchisol.tw.
+16. colchysat.tw.
+17. colcine.tw.
+18. colcrys.tw.
+19. colgout.tw.
+20. goutichine.tw.
+21. goutnil.tw.
+22. kolkicin.tw.
+23. nsc 757.tw.
+24. tolchicine.tw.
+25. or/1-24
+26. randomized controlled trial.pt.
+27. controlled clinical trial.pt.
+28. randomized.ab.
+29. placebo.ab.
+30. clinical trials as topic.sh.
+31. randomly.ab.
+32. trial.ti.
+33. 26 or 27 or 28 or 29 or 30 or 31 or 32
+34. (humans.sh. not animals/)
+35. 33 and 34
+36. 25 and 35
+37. (trial* or random*).tw.
+38. 33 or 37
+39. 38 and 34
+40. 25 and 39

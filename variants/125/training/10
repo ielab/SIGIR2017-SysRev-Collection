@@ -1,0 +1,21 @@
+1 "Middle Ear Ventilation"/
+2 ((tympanostomy OR (middle AND ear) OR tympanic) AND tube*)
+3 (ear* AND ("tube insert*" OR "tubes insert*" OR "ventilation tube*" OR "ventilating tube*" OR "tube ventilat*" OR "tubes ventilat*"))
+4 (grommet* OR tubulation OR (middle AND ear AND ventilat*))
+5 1 OR 2 OR 3 OR 4
+6 "Water"/
+7 "Baths"/
+8 "Swimming"/
+9 "Fresh Water"/
+10 "Swimming Pools"/
+11 "Immersion"/
+12 "Oceans and Seas"/
+13 "Seawater"/
+14 (water* or swim* or shower* or bath* or dry or wash* or clean* or dive or diving or rinsing or rinse or nonswim*)
+15 (immers* or submers* or submerg* or lake* or pond* or creek* or pool* or river* or freshwater* or sea* or ocean* or seawater* or ingress)
+16 Ear Protective Devices/
+17 ((ear and protect*) or "ear mould*" or "ear mold*" or "ear plug*" or earplug* or earmold* or earmould* or "Canal occlusive devis*" or "physical barrier*" or (cotton and (vaseline or "petroleum jelly")))
+18 6 OR 7 OR 8 Or 9 OR 10 OR 11 OR 12 OR 13 OR 14 OR 15 OR 16 OR 17
+19 5 AND 18
+20 "Middle Ear Ventilation"/
+21 19 OR 20

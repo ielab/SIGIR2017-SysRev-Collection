@@ -1,0 +1,68 @@
+1. exp Eczema/ or eczema.mp.
+2. exp Dermatitis, Atopic/
+3. neurodermatitis.mp. or exp Neurodermatitis/
+4. exp Dermatitis/ or dermatitis.mp.
+5. or/1-4
+6. exp Psychotherapy/
+7. exp Patient Education Handout/
+8. exp Education/
+9. exp Health Education/
+10. exp Psychology/
+11. exp Behavior Therapy/
+12. exp Cognitive Therapy/
+13. exp Autogenic Training/
+14. exp Suggestion/
+15. exp Hypnosis/
+16. exp Counseling/
+17. exp Relaxation/
+18. exp Relaxation Therapy/
+19. exp "Imagery (Psychotherapy)"/
+20. exp Biofeedback, Psychology/
+21. exp Family Therapy/
+22. exp Health Promotion/
+23. exp Patient Education as Topic/
+24. exp Parent-Child Relations/
+25. exp Skin Care/
+26. exp Self-Help Groups/
+27. exp Psychiatry/
+28. psychodynamic therap$.ti,ab.
+29. behavio$ management.ti,ab.
+30. behavio$ therapy.ti,ab.
+31. autogenic training.ti,ab.
+32. counsel$.ti,ab.
+33. psychotherapy.ti,ab.
+34. suggestion.ti,ab.
+35. (hypnosis or hypnotherapy).ti,ab.
+36. cognitive therap$.ti,ab.
+37. relaxation.ti,ab.
+38. psychotherapeutic technique$.ti,ab.
+39. self help.ti,ab.
+40. support.ti,ab.
+41. mindfulness.ti,ab.
+42. imagery.ti,ab.
+43. biofeedback.ti,ab.
+44. family therap$.ti,ab.
+45. health promotion.ti,ab.
+46. health education.ti,ab.
+47. patient education.ti,ab.
+48. patient teaching.ti,ab.
+49. patient training.ti,ab.
+50. or/6-49
+51. exp Eczema/
+52. exp Dermatitis, Atopic/
+53. exp Neurodermatitis/
+54. exp Dermatitis/
+55. 51 or 52 or 53 or 54
+56. randomized controlled trial.pt.
+57. controlled clinical trial.pt.
+58. randomized.ab.
+59. placebo.ab.
+60. clinical trials as topic.sh.
+61. randomly.ab.
+62. trial.ti.
+63. 56 or 57 or 58 or 59 or 60 or 61 or 62
+64. (humans not animals).sh.
+65. 63 and 64
+66. 5 and 50 and 65
+67. 55 and 65
+68. 66 or 67

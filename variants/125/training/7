@@ -1,0 +1,65 @@
+1. exp Cardiovascular Diseases/
+2. cardio*.tw.
+3. cardia*.tw.
+4. heart*.tw.
+5. coronary*.tw.
+6. angina*.tw.
+7. ventric*.tw.
+8. myocard*.tw.
+9. pericard*.tw.
+10. isch?em*.tw.
+11. emboli*.tw.
+12. arrhythmi*.tw.
+13. thrombo*.tw.
+14. atrial fibrillat*.tw.
+15. tachycardi*.tw.
+16. endocardi*.tw.
+17. (sick adj sinus).tw.
+18. exp Stroke/
+19. (stroke or stokes).tw.
+20. cerebrovasc*.tw.
+21. cerebral vascular.tw.
+22. apoplexy.tw.
+23. (brain adj2 accident*).tw.
+24. ((brain* or cerebral or lacunar).tw. adj2 infarct*).tw.
+25. exp Hypertension/
+26. hypertensi*.tw.
+27. peripheral arter* disease*.tw.
+28. ((high or increased or elevated).tw. adj2 blood pressure).tw.
+29. exp Hyperlipidemias/
+30. hyperlipid*.tw.
+31. hyperlip?emia*.tw.
+32. hypercholesterol*.tw.
+33. hypercholester?emia*.tw.
+34. hyperlipoprotein?emia*.tw.
+35. hypertriglycerid?emia*.tw.
+36. exp Arteriosclerosis/
+37. exp Cholesterol/
+38. cholesterol.tw.
+39. "coronary risk factor* ".tw.
+40. Blood Pressure/
+41. blood pressure.tw.
+42. or/1-41
+43. Mass Screening/
+44. Systematic risk assessment*.tw.
+45. Case finding.tw.
+46. ((screen* or assess* or test* or diagnos* or surveill* or identifi* or prevelence or incidence*).tw. adj10 (structured or systematic or organised or organized or opportunistic or random).tw.)
+47. Risk Assessment/
+48. (risk* adj3 assess*).tw.
+49. or/43-48
+50. Primary Prevention/
+51. (prophylaxis or prevent*).tw.
+52. 50 or 51
+53. 42 and 49 and 52
+54. randomized controlled trial.pt.
+55. controlled clinical trial.pt.
+56. randomized.ab.
+57. placebo.ab.
+58. drug therapy.fs.
+59. randomly.ab.
+60. trial.ab.
+61. groups.ab.
+62. 54 or 55 or 56 or 57 or 58 or 59 or 60 or 61
+63. humans.sh.
+64. 62 and 63
+65. 53 and 64

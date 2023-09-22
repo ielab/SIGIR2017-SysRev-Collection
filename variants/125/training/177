@@ -1,0 +1,13 @@
+1. exp "Substance-Related-Disorders"/
+2. ((drug or substance).ti,ab. adj (abuse* or addict* or dependen* or misuse*).ti,ab.)
+3. (drug* adj (treat* or intervention* or program*).ti,ab.).ti,ab.
+4. (substance adj (treat* or intervention* or program*).ti,ab.).ti,ab.
+5. (detox* or methadone).ti,ab.
+6. (narcotic* adj (treat* or intervention* or program*).ti,ab.).ti,ab.
+7. 1 or 2 or 3 or 4 or 5 or 6
+8. prison*.ti,ab.
+9. exp "Prisoners"/
+10. (offender* or criminal* or inmate* or convict* or probation* or remand or felon*).ti,ab.
+11. exp "Prisons"/
+12. 8 or 9 or 10 or 11
+13. 7 and 12

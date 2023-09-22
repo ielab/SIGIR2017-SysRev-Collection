@@ -1,0 +1,7 @@
+1. exp Sleep Apnea Syndromes/
+2. (sleep$ adj3 (apnea$ or apnoea$).mp.).mp.
+3. (hypopnoea$ or hypopnoea$).mp.
+4. OSA.mp.
+5. SHS.mp.
+6. OSAHS.mp.
+7. or/1-6

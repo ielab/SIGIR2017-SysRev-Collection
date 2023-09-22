@@ -2,6 +2,8 @@
 
 This repository contains the collection of queries for the paper "A Test Collection for Evaluating Retrieval of Studies for Inclusion in Systematic Reviews".
 
+**Update September 2023:** Variants of this collection (i.e., different topic sets used in papers) can now be found in the [variants](variants) directory. 
+
 The following files have been made available:
 
  - `systematic_reviews.json`: A list of urls pointing to the systematic reviews used in this collection.

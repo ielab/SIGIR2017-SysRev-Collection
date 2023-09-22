@@ -1,0 +1,18 @@
+1 exp Bronchiolitis/
+2 bronchiolit*.tw.
+3 Bronchopneumonia/
+4 bronchopneumon*.tw.
+5 (exp respiratory syncytial viruses/ or exp respiratory syncytial virus, human/)
+6 Respiratory Syncytial Virus Infections/
+7 (respiratory syncytial virus* or rsv).tw.
+8 or/1-7
+9 Respiratory Therapy/
+10 Respiration, Artificial/
+11 (positive-pressure respiration/ or continuous positive airway pressure/)
+12 (positive pressur* adj5 (ventilat* or respir* or breath* or airway*).tw.).tw.
+13 positiv* airway* pressur*.tw.
+14 continuous distend* pressur*.tw.
+15 positive end expiratory pressure.tw.
+16 (ppv or cpap or ncpap or nm-cpap or np-cpap or peep).tw.
+17 or/9-16
+18 8 and 17

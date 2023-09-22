@@ -1,0 +1,11 @@
+1. exp Ovarian Neoplasms/
+2. (ovar*.mp. adj5 (cancer* or tumor* or tumour* or neoplas* or carcinoma* or adenocarcinoma* or malignan*).mp.).mp.
+3. 1 or 2
+4. surgery.fs.
+5. exp Gynecologic Surgical Procedures/
+6. (cytoreduct* or debulk*).mp.
+7. 4 or 5 or 6
+8. Tranexamic Acid/
+9. (tranexamic acid or amchafibrin or anvitoff or cyclokapron or cyklokapron or exacyl or kabi 2161 or lysteda or spotof or t-amcha or tranhexamic acid or transamin or ugurol or xp12b).mp.
+10. 8 or 9
+11. 3 and 7 and 10

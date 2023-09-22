@@ -1,0 +1,23 @@
+1 exp Gastrointestinal Neoplasms/
+2 exp Genital Neoplasms, Female/
+3 exp Ovarian Neoplasms/
+4 (gynaecological or gynecological).mp.
+5 (gastrointestin$ or gastro-intestin$ or intestin$ or bowel$ or colon$ or colorectal or rectal$ or stomach$ or gastric$).mp.
+6 (ovarian or ovary or ovaries).mp.
+7 (endometrial or endometrium).mp.
+8 (uterine or uterus or vaginal or vulvar or vagina$).mp.
+9 (cervix or cervical).mp.
+10 or/4-9
+11 Neoplasms/
+12 (neoplasm$ or cancer$ or carcinoma$ or tumor$ or tumour$).mp.
+13 or/11-12
+14 10 and 13
+15 1 or 2 or 3 or 14
+16 exp Intestinal Obstruction/
+17 ((bowel$ or intestin$ or gastrointestin$ or gastro-intestin$ or colon$ or colorect$ or retrosigmoid$).mp. and (obstruct$ or blockage).mp.)
+18 or/16-17
+19 Colorectal Surgery/
+20 Surgical Procedures, Elective/
+21 (surgery or surgical$ or resect$).mp.
+22 19 or 20 or 21
+23 18 and 22

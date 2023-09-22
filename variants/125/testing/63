@@ -1,0 +1,5 @@
+1. (exp Hypothermia Induced/ or Circulatory Arrest Deep Hypothermia Induced/ or exp Hypothermia/ or exp Cryotherapy/ or exp Cryosurgery/ or (Cooling or Cryotherapy or Hypotherm*).mp. or (cryo* or cold).ti,ab.)
+2. (exp Neurosurgical Procedures/ or exp Neurosurgery/ or exp Brain Injuries/ or exp Intracranial Aneurysm/ or exp Intracranial Arterial Diseases/ or exp Cerebrovascular Disorders/ or exp Cerebrovascular Trauma/ or ((operat* or surg* or procedur*).mp. adj5 (brain* or neuro*).mp.).mp. or ((Brain or Cerebro*).mp. adj5 (disord* or trauma* or damage).mp.).mp. or Intracranial.mp.)
+3. 1 and 2
+4. (((randomized controlled trial or controlled clinical trial).pt. or randomized.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab. or trial.ti.) and (humans not animals).sh.)
+5. 3 and 4

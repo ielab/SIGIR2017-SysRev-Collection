@@ -1,0 +1,34 @@
+1. randomized controlled trial.pt.
+2. controlled clinical trial.pt.
+3. pragmatic clinical trial.pt.
+4. randomized.ab.
+5. placebo.ab,ti.
+6. drug therapy.fs.
+7. randomly.ab,ti.
+8. trial.ab,ti.
+9. groups.ab,ti.
+10. or/1-9
+11. humans.sh.
+12. 10 and 11
+13. exp Constriction, Pathologic/
+14. (1976 or 1977 or 1978 or 1979 or 1980 or 1981 or 1982).ed.
+15. 13 and 14
+16. exp Lumbar Vertebrae/
+17. (1966 or 1967 or 1967 or 1968 or 1969 or 1970 or 1971 or 1972 or 1973 or 1974 or 1975 or 1976 or 1977 or 1978 or 1979 or 1980 or 1981 or 1982).ed.
+18. 16 and 17
+19. exp Spinal Canal/
+20. 17 and 19
+21. exp Spinal Diseases/
+22. 19 and 17
+23. exp Spinal Stenosis/
+24. spinal stenosis.mp.
+25. (lumbar adj5 stenosis).mp.
+26. (spin* adj5 stenosis).mp.
+27. neurogenic claudication.mp.
+28. exp Spinal Osteophytosis/
+29. exp Spondylosis/
+30. (lumb* adj5 spondyl*).mp.
+31. exp Cauda Equina/
+32. lumbar radicular pain.mp.
+33. 30 or 28 or 31 or 24 or 29 or 20 or 23 or 18 or 25 or 27 or 16 or 22 or 26 or 32
+34. 12 and 33

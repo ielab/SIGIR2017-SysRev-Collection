@@ -1,0 +1,11 @@
+1. (cerebrovascular disorders/ or basal ganglia cerebrovascular disease/ or exp brain ischemia/ or carotid artery diseases/ or carotid artery thrombosis/ or intracranial arterial diseases/ or cerebral arterial diseases/ or exp "intracranial embolism and thrombosis"/ or exp stroke/)
+2. (isch?emi$ adj6 (stroke$ or apoplex$ or cerebral vasc$ or cerebrovasc$ or cva or attack$).tw.).tw.
+3. ((brain or cerebr$ or cerebell$ or vertebrobasil$ or hemispher$ or intracran$ or intracerebral or infratentorial or supratentorial or middle cerebr$ or mca$ or anterior circulation).tw. adj5 (isch?emi$ or infarct$ or thrombo$ or emboli$ or occlus$ or hypoxi$).tw.).tw.
+4. 1 or 2 or 3
+5. (exp insulins/ or insulin infusion systems/)
+6. (insulin$ or novolin or humulin or iletin or velosulin).tw.
+7. insulin$.nm.
+8. 5 or 6 or 7
+9. 4 and 8
+10. (humans.sh. not animals/)
+11. 9 and 10

@@ -1,0 +1,33 @@
+1 exp Ovarian Neoplasms/
+2 (ovar* adj5 (cancer* or neoplasm* or malignan* or tumor* or tumour* or carcinom*).mp.).mp.
+3 1 or 2
+4 exp Infusions, Parenteral/
+5 Injections, Intraperitoneal/
+6 intraperitoneal.mp.
+7 intra-peritoneal.mp.
+8 peritone*.mp.
+9 regional.mp.
+10 parenteral.mp.
+11 4 or 5 or 6 or 7 or 8 or 9 or 10
+12 drug therapy.fs.
+13 exp Antineoplastic Agents/
+14 exp Antineoplastic Combined Chemotherapy Protocols/
+15 exp Chemotherapy, Adjuvant/
+16 chemotherap*.mp.
+17 cisplatin.mp.
+18 carboplatin.mp.
+19 cyclophosphamide.mp.
+20 etoposide.mp.
+21 paclitaxel.mp.
+22 doxorubicin.mp.
+23 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22
+24 3 and 11 and 23
+25 randomized controlled trial.pt.
+26 controlled clinical trial.pt.
+27 randomized.ab.
+28 placebo.ab.
+29 drug therapy.fs.
+30 randomly.ab.
+31 trial.ab.
+32 25 or 26 or 27 or 28 or 29 or 30 or 31
+33 24 and 32

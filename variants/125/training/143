@@ -1,0 +1,51 @@
+1. (cerebrovascular disorders/ or exp basal ganglia cerebrovascular disease/ or exp brain ischemia/ or exp carotid artery diseases/ or exp intracranial arterial diseases/ or exp "intracranial embolism and thrombosis"/ or exp intracranial hemorrhages/ or stroke/ or exp brain infarction/ or stroke, lacunar/ or vasospasm, intracranial/ or vertebral artery dissection/)
+2. (stroke or poststroke or post-stroke or cerebrovasc$ or brain vasc$ or cerebral vasc$ or cva$ or apoplex$ or SAH).tw.
+3. ((brain$ or cerebr$ or cerebell$ or intracran$ or intracerebral).tw. adj5 (isch?emi$ or infarct$ or thrombo$ or emboli$ or occlus$).tw.)
+4. ((brain$ or cerebr$ or cerebell$ or intracerebral or intracranial or subarachnoid).tw. adj5 (haemorrhage$ or hemorrhage$ or haematoma$ or hematoma$ or bleed$).tw.)
+5. hemiplegia/ or exp paresis/
+6. (hemipleg$ or hemipar$ or paresis or paretic).tw.
+7. exp gait disorders, neurologic/
+8. 1 or 2 or 3 or 4 or 5 or 6 or 7
+9. (exercise/ or exercise test/ or exercise therapy/ or motion therapy, continuous passive/)
+10. (body weight/ or weight-bearing/)
+11. (treadmill$ or tread mill$ or running wheel$ or running machine$).tw.
+12. ((walking or walk or exercise).tw. adj5 (machine$ or device$).tw.)
+13. ((walking or gait or locomotor or ambulation).tw. adj5 (train$ or re-train$ or retrain$).tw.)
+14. (exp walking/ and (machine$ or device$ or train$ or re-train$ or retrain$).tw.)
+15. ((weight or body-weight or bodyweight).tw. adj5 (support$ or suspen$ or relief).tw.)
+16. ((walk or walking or ambulat$ or locomot$ or gait or overhead).tw. adj5 support$).tw.
+17. harness$.tw.
+18. 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17
+19. (exp walking/ or gait/ or mobility limitation/ or locomotion/)
+20. (walk$ or gait$ or ambulat$ or mobil$ or locomot$ or stride).tw.
+21. 19 or 20
+22. Randomized Controlled Trials as Topic/
+23. random allocation/
+24. Controlled Clinical Trials as Topic/
+25. control groups/
+26. clinical trials as topic/
+27. double-blind method/
+28. single-blind method/
+29. Placebos/
+30. placebo effect/
+31. cross-over studies/
+32. Therapies, Investigational/
+33. Research Design/
+34. randomized controlled trial.pt.
+35. controlled clinical trial.pt.
+36. clinical trial.pt.
+37. (random$ or RCT or RCTs).tw.
+38. (controlled adj5 (trial$ or stud$).tw.).tw.
+39. (clinical$ adj5 trial$).tw.
+40. ((control or treatment or experiment$ or intervention).tw. adj5 (group$ or subject$ or patient$).tw.)
+41. (quasi-random$ or quasi random$ or pseudo-random$ or pseudo random$).tw.
+42. ((control or experiment$ or conservative).tw. adj5 (treatment or therapy or procedure or manage$).tw.)
+43. ((singl$ or doubl$ or tripl$ or trebl$).tw. adj5 (blind$ or mask$).tw.)
+44. (cross-over or cross over or crossover).tw.
+45. (placebo$ or sham).tw.
+46. trial.ti.
+47. (assign$ or allocat).tw.
+48. or/22-47
+49. 8 and 18 and 21 and 48
+50. (humans.sh. not animals/)
+51. 49 and 50

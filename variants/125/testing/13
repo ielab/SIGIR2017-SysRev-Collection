@@ -1,0 +1,4 @@
+1. (exp angiotensin-converting-enzyme-inhibitors/ or (alacepril or benazepril* or captopril or ceranapril or cilazapril*or delapril or enalapril* or fosinopril* or imidapril or libenzapril or quinaprilat or ramipril* or rentiapril or saralasin or spirapril or temocapril hydrochloride or teprotide or trandolapril or zofenopril or cozaar or valsartan or diovan or telmisartan or micardis or candesartan or tasosartan or verdia or eprosartan or irbesartan).mp. or exp ramipril/ or exp receptors, angiotensin/ or exp losartan/)
+2. (surg* or perioperative or preoperative or intraoperative or postoperative).mp.
+3. ((("randomized controlled trial" or "controlled clinical trial").pt. or randomized.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab. or trial.ti.) and (humans not animals).sh.)
+4. 1 and 2 and 3

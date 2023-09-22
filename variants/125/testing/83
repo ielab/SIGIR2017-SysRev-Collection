@@ -1,0 +1,30 @@
+1. randomized controlled trial.pt.
+2. controlled clinical trial.pt.
+3. randomized.ab.
+4. placebo.ab.
+5. clinical trials as topic.sh.
+6. randomly.ab.
+7. trial.ti.
+8. 1 or 2 or 3 or 4 or 5 or 6 or 7
+9. (animals not humans).sh.
+10. 8 and 9
+11. exp Dermatitis, Atopic/
+12. atopic dermatitis.mp.
+13. atopic eczema.mp.
+14. exp NEURODERMATITIS/
+15. neurodermatitis.mp.
+16. infantile eczema.mp.
+17. childhood eczema.mp.
+18. Besniers' Prurigo.mp.
+19. exp Eczema/ or eczema.mp.
+20. 16 or 11 or 19 or 14 or 13 or 17 or 12 or 15 or 18
+21. 10 and 20
+22. exp Pyroglyphidae/
+23. (house dust mite$ or housedust mite$).mp. 
+24. Dermatophagoide$.mp. 
+25. Euroglyphus.mp.
+26. Blomia.mp.
+27. dust mite$.mp.
+28. exp Mites/
+29. 22 or 23 or 24 or 25 or 26 or 27 or 28
+30. 21 and 29

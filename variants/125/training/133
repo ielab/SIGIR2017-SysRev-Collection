@@ -1,0 +1,4 @@
+1. ((exp Anesthesia/ or exp Perioperative care/ or an?esthe*.mp. or perioperative.ti,ab.) and (exp child/ or child*.af. or exp Pediatrics/ or p?ediatric*.af.))
+2. (exp Pain, Postoperative/ or exp Postoperative Complications/ or exp "Postoperative Nausea and Vomiting"/ or (postoperative adj5 (pain or nausea or vomiting or analgesia).mp.).mp. or (delirium or agitation or pruritus or itch* or sedation or hypotensi* or bradycardi*).mp.)
+3. (exp Clonidine/ or clonidin*.af.)
+4. 1 and 2 and 3

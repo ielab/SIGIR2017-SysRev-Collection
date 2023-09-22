@@ -1,0 +1,38 @@
+1 exp Surgical Wound Infection/ 
+2 exp Surgical Wound Dehiscence/ 
+3 (surg* adj5 infect*).tw. 
+4 (surg* adj5 wound*).tw. 
+5 (surg* adj5 site*).tw. 
+6 (surg* adj5 incision*).tw. 
+7 (surg* adj5 dehiscen*).tw. 
+8 ((post-operative or postoperative).tw. adj5 wound infection*).tw.
+9 exp Preoperative Care/ 
+10 exp Perioperative Care/ 
+11 ((preoperative or pre-operative).tw. adj care).tw.
+12 or/1-11 
+13 exp Skin/ 
+14 exp Antisepsis/ 
+15 and/13-14 
+16 skin antisep*.tw. 
+17 exp Anti-Infective Agents, Local/ 
+18 exp Iodophors/ 
+19 exp Povidone-Iodine/ 
+20 exp Chlorhexidine/ 
+21 exp Alcohols/ 
+22 exp Soaps/ 
+23 (iodophor* or povidone-iodine or betadine or chlorhexidine or triclosan or hexachlorophene or benzalkonium or alcohol or alcohols or antiseptic* or soap*).tw. 
+24 exp Disinfectants/ 
+25 13 and 24 
+26 (skin adj5 disinfect*).tw. 
+27 exp Detergents/ 
+28 13 and 27 
+29 (skin adj5 detergent*).tw. 
+30 or/15-23
+31 or/25-26
+32 or/28-29
+33 30 or 31 or 32
+34 exp Handwashing/
+35 exp Hand/
+36 (hand or hands or handwash* or surgical scrub*).tw.
+37 or/34-36
+38 12 and 30 and 37

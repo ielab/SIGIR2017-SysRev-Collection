@@ -1,0 +1,7 @@
+1. (exp Extracorporeal Membrane Oxygenation/ or ((extracor* or extra-cor*).mp. and membra* and oxygen*).mp. or ECMO.ti,ab. or (("carbon dioxide" or CO2).mp. adj3 remov*).mp. or ((pump?free or pumpless or interventional).mp. adj3 lung?assist*).mp. or (PECLA or iLA).ti,ab.)
+2. ((lung adj5 assist*).af. or (severe adj3 (respiratory or cardiac or lung or heart or insufficiency or failure).af.).af.).af.
+3. (lung adj5 assist*).ti,ab.
+4. ((("randomized controlled trial" or "controlled clinical trial").pt. or randomized.ab. or placebo.ab. or drug therapy.fs. or randomly.ab. or trial.ab. or groups.ab.) and (humans not animals).sh.)
+5. 1 and 2
+6. 3 or 5
+7. 6 and 4

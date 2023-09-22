@@ -1,0 +1,28 @@
+1 inflammatory demyelinating.tw.
+2 (polyradiculoneuropath$3 or polyneuropath$3).tw.
+3 (polyneuropathies/ or Polyradiculoneuropathy/)
+4 (polyneuritis or polyradiculoneuritis).tw.
+5 2 or 3 or 4
+6 (Chronic disease/ or "chronic disease".mp.)
+7 1 and 5 and 6
+8 (chronic inflammatory demyelinating polyradiculoneuropathy.mp. or Polyradiculoneuropathy, Chronic Inflammatory Demyelinating/)
+9 cidp.tw.
+10 7 or 8 or 9
+11 randomized controlled trial.pt.
+12 controlled clinical trial.pt.
+13 randomized.ab.
+14 placebo.ab.
+15 drug therapy.fs.
+16 randomly.ab.
+17 trial.ab.
+18 groups.ab.
+19 or/11-18
+20 (humans.sh. not animals/)
+21 19 and 20
+22 10 and 21
+23 Adrenocorticotropic Hormone/
+24 exp Adrenal Cortex Hormones/
+25 exp Steroids/
+26 (prednisone$ or prednisolone$ or dexamethasone$ or corticosteroid$).mp.
+27 or/23-26
+28 22 and 27

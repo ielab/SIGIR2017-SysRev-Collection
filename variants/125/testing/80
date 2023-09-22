@@ -1,0 +1,32 @@
+1. exp arthritis, rheumatoid/
+2. (felty$ adj2 syndrome).tw.
+3. (caplan$ adj2 syndrome).tw.
+4. rheumatoid nodule.tw.
+5. (sjogren$ adj2 syndrome).tw.
+6. (sicca adj2 syndrome).tw.
+7. still$ disease.tw.
+8. bechterew$ disease.tw.
+9. (arthritis adj2 rheumat$).tw.
+10. or/1-9
+11. Antibodies, Monoclonal/
+12. Immunologic Factors/
+13. rituximab.tw.
+14. rituxan.tw.
+15. mabthera.tw.
+16. or/11-15
+17. 10 and 16
+18. clinical trial.pt.
+19. randomized.ab.
+20. placebo.ab.
+21. dt.fs.
+22. clinical trials/
+23. randomly.ab.
+24. trial.ti.
+25. groups.ab.
+26. or/18-25
+27. animals/
+28. humans/
+29. 27 and 28
+30. 27 not 29
+31. 26 not 30
+32. 17 and 31

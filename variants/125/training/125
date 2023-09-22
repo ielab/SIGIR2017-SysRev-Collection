@@ -1,0 +1,42 @@
+1 exp Anovulation/
+2 anovulat$.tw.
+3 amenorrhea/ or oligomenorrhea/
+4 amenorrh$.tw.
+5 oligomenorrh$.tw.
+6 Polycystic Ovary Syndrome/
+7 pcos.tw.
+8 Polycystic Ovar$.tw.
+9 pcod.tw.
+10 or/1-9
+11 trigger$.tw.
+12 exp Chorionic Gonadotropin/
+13 HCG.tw.
+14 uhcg.tw.
+15 rhcg.tw.
+16 exp Luteinizing Hormone/
+17 Human Chorionic Gonadotrop?in$.tw.
+18 rLH.tw.
+19 recombinant LH.tw.
+20 Recombinant Luteini?ing Hormone$.tw.
+21 GnRH A.tw.
+22 buserelin.tw.
+23 leuprorelin.tw.
+24 nafarelin.tw.
+25 triptorelin.tw.
+26 gnrh agonist$.tw.
+27 gonadotrop?in releasing hormone agonist$.tw.
+28 or/11-27
+29 10 and 28
+30 randomized controlled trial.pt.
+31 controlled clinical trial.pt.
+32 randomized.ab.
+33 randomised.ab.
+34 placebo.tw.
+35 clinical trials as topic.sh.
+36 randomly.ab.
+37 trial.ti.
+38 (crossover or cross-over or cross over).tw.
+39 or/30-38
+40 (humans.sh. not animals/)
+41 39 and 40
+42 29 and 41

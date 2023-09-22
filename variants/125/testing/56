@@ -1,0 +1,137 @@
+1. randomized controlled trial.pt.
+2. (randomized or randomised).ab,ti.
+3. placebo.ab,ti.
+4. dt.fs.
+5. randomly.ab,ti.
+6. trial.ab,ti.
+7. groups.ab,ti.
+8. or/1-7
+9. exp animals/
+10. exp humans/
+11. 10 not 9
+12. 8 not 11
+13. exp diabetic retinopathy/
+14. retinopath$.tw.
+15. (vitre$ adj3 detach$).tw.
+16. (retina$ adj3 detach$).tw.
+17. (diabet$ adj3 maculopath$).tw.
+18. or/13-17
+19. exp blood pressure/
+20. exp blood glucose/
+21. exp hypertension/
+22. ((pressure or glucose or glycem$).tw. adj3 blood$).tw.
+23. hypertens$.tw.
+24. or/19-23
+25. exp antihypertensive agents/
+26. exp angiotensin converting enzyme inhibitors/
+27. (ACE adj1 inhibitor$).tw.
+28. (antihypertensive adj2 (agent$ or drug$ or medicat$).tw.).tw.
+29. exp calcium channel blockers/
+30. (calcium adj1 channel adj1 blocker$).tw.
+31. (calcium adj1 channel adj1 antagonist$).tw.
+32. exp diuretics/
+33. diuretic$.tw.
+34. exp adrenergic beta antagonists/
+35. (adrenergic adj1 beta adj1 antagonist$).tw.
+36. (beta adj1 blocker$).tw.
+37. exp adrenergic alpha antagonist/
+38. (adrenergic adj1 alpha adj1 antagonist$).tw.
+39. exp vasodilator agents/
+40. exp angiotensin II type 1 receptor blockers/
+41. (angiotensin adj3 blocker$).tw.
+42. acebutolol.tw.
+43. amiloride.tw.
+44. amlodipine.tw.
+45. atorvastin.tw.
+46. benazepril.tw.
+47. atenolol.tw.
+48. bendroflumethiazide.tw.
+49. nadolol.tw.
+50. betaxolol.tw.
+51. bisoprolol.tw.
+52. bosentan.tw.
+53. bucindolol.tw.
+54. bumetanide.tw.
+55. candesartan.tw.
+56. captopril.tw.
+57. carteolol.tw.
+58. carvedilol.tw.
+59. chlorothiazide.tw.
+60. chlorthalidone.tw.
+61. clonidine.tw.
+62. diazoxide.tw.
+63. diltiazem.tw.
+64. diltiazem.tw.
+65. doxazosin.tw.
+66. enalapril.tw.
+67. enalapril$.tw.
+68. felodipine.tw.
+69. eplerenone.tw.
+70. epoprostenol.tw.
+71. eprosartan.tw.
+72. esmolol.tw.
+73. (ethacrynic adj1 acid).tw.
+74. fenoldopam.tw.
+75. fosinopril.tw.
+76. furosemide.tw.
+77. guanabenz.tw.
+78. guanadrel.tw.
+79. guanfacine.tw.
+80. hydralazine.tw.
+81. irbesartan.tw.
+82. lisinopril.tw.
+83. losartan.tw.
+84. methyldopa.tw.
+85. metoprolol.tw.
+86. moexipril.tw.
+87. olmesartan.tw.
+88. propranolol.tw.
+89. quinapril.tw.
+90. spironolactone.tw.
+91. telmisartan.tw.
+92. timolol.tw.
+93. triamterene.tw.
+94. valsartan.tw.
+95. hydrochlorothiazide.tw.
+96. iloprost.tw.
+97. indapamide.tw.
+98. isoxsuprine.tw.
+99. isradipine.tw.
+100. labetalol.tw.
+101. lercanidipine.tw.
+102. mecamylamine.tw.
+103. methyclothiazide.tw.
+104. metolazone.tw.
+105. mibefradil.tw.
+106. minoxidil.tw.
+107. nicardipine.tw.
+108. nifedipine.tw.
+109. nisoldipine.tw.
+110. exp nitric oxide/
+111. exp nitroprusside/
+112. nitroprusside.tw.
+113. omapatrilat.tw.
+114. penbutolol.tw.
+115. perindopril.tw.
+116. phenylbutazone.tw.
+117. phenoxybenzamine.tw.
+118. phentolamine.tw.
+119. pindolol.tw.
+120. polythiazide.tw.
+121. prazosin.tw.
+122. prostacyclin.tw.
+123. ramipril.tw.
+124. reserpine.tw.
+125. sildenafil.tw.
+126. spirapril.tw.
+127. terazosin.tw.
+128. torsemide.tw.
+129. trandolapril.tw.
+130. verapamil.tw.
+131. trepostinil.tw.
+132. triamterene.tw.
+133. trichlormethiazide.tw.
+134. or/25-133
+135. 18 and 24 and 12
+136. 18 and 134 and 12
+137. 135 or 136

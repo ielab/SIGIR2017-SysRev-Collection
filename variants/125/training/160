@@ -1,0 +1,16 @@
+1. exp Asthma/
+2. asthma$.mp.
+3. (antiasthma$ or anti-asthma$).mp.
+4. Respiratory Sounds/
+5. wheez$.mp.
+6. Bronchial Spasm/
+7. bronchospas$.mp.
+8. (bronch$ adj3 spasm$).mp.
+9. bronchoconstrict$.mp.
+10. exp Bronchoconstriction/
+11. (bronch$ adj3 constrict$).mp.
+12. Bronchial Hyperreactivity/
+13. Respiratory Hypersensitivity/
+14. ((bronchial$ or respiratory or airway$ or lung$).mp. adj3 (hypersensitiv$ or hyperreactiv$ or allerg$ or insufficiency).mp.)
+15. ((dust or mite$).mp. adj3 (allerg$ or hypersensitiv$).mp.)
+16. or/1-15

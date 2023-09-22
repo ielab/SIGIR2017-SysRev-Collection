@@ -1,0 +1,59 @@
+1 exp Angiotensin-Converting Enzyme Inhibitors/
+2 ((angiotensin$ or dipeptidyl$ or kininase ii).tw. adj3 (convert$ or enzyme or inhibit$ or recept$ or block$).tw.)
+3 (ace adj inhibit$).tw.
+4 acei.tw.
+5 (alacepril or altiopril or ancovenin or benazepril or captopril or ceranapril or ceronapril or cilazapril or deacetylalacepril or delapril or derapril or enalapril or epicaptopril or fasidotril or fosinopril or foroxymithine or gemopatrilat or idapril or imidapril or indolapril or libenzapril or lisinopril or moexipril or moveltipril or omapatrilat or pentopril$ or perindopril$ or pivopril or quinapril$ or ramipril$ or rentiapril or saralasin or s nitrosocaptopril or spirapril$ or temocapril$ or teprotide or trandolapril$ or utibapril$ or zabicipril$ or zofenopril$ or Aceon or Accupril or Altace or Capoten or Lotensin or Mavik or Monopril or Prinivil or Univas or Vasotec or Zestril).tw.
+6 or/1-5
+7 exp Angiotensin Receptor Antagonists/
+8 (angiotensin.tw. adj3 (receptor antagon$ or receptor block$).tw.).tw.
+9 arb?.tw.
+10 (abitesartan or azilsartan or candesartan or elisartan or embusartan or eprosartan or forasartan or irbesartan or KT3-671 or losartan or milfasartan or olmesartan or saprisartan or tasosartan or telmisartan or valsartan or zolasartan).tw.
+11 or/7-10
+12 renin/ai
+13 (aliskiren or ciprokiren or ditekiren or enalkiren or remikiren or rasilez or tekturna or terlakiren or zankiren).mp.
+14 renin inhibit$.tw.
+15 or/12-14
+16 6 or 11 or 15
+17 exp calcium channel blockers/
+18 (amlodipine or aranidipine or barnidipine or bencyclane or benidipine or bepridil or cilnidipine or cinnarizine or clentiazem or darodipine or diltiazem or efonidipine or elgodipine or etafenone or fantofarone or felodipine or fendiline or flunarizine or gallopamil or isradipine or lacidipine or lercanidipine or lidoflazine or lomerizine or manidipine or mibefradil or nicardipine or nifedipine or niguldipine or nilvadipine or nimodipine or nisoldipine or nitrendipine or perhexiline or prenylamine or semotiadil or terodiline or tiapamil or verapamil or Cardizem CD or Dilacor XR or Tiazac or Cardizem Calan or Isoptin or Calan SR or Isoptin SR Coer or Covera HS or Verelan PM).tw.
+19 (calcium adj2 (antagonist? or block$ or inhibit$).tw.).tw.
+20 or/17-19
+21 (methyldopa or alphamethyldopa or amodopa or dopamet or dopegyt or dopegit or dopegite or emdopa or hyperpax or hyperpaxa or methylpropionic acid or dopergit or meldopa or methyldopate or medopa or medomet or sembrina or aldomet or aldometil or aldomin or hydopa or methyldihydroxyphenylalanine or methyl dopa or mulfasin or presinol or presolisin or sedometil or sembrina or taquinil or dihydroxyphenylalanine or methylphenylalanine or methylalanine or alpha methyl dopa).mp.
+22 (reserpine or serpentina or rauwolfia or serpasil).mp.
+23 (clonidine or adesipress or arkamin or caprysin or catapres$ or catasan or chlofazolin or chlophazolin or clinidine or clofelin$ or clofenil or clomidine or clondine or clonistada or clonnirit or clophelin$ or dichlorophenylaminoimidazoline or dixarit or duraclon or gemiton or haemiton or hemiton or imidazoline or isoglaucon or klofelin or klofenil or m-5041t or normopresan or paracefan or st-155 or st 155 or tesno timelets).mp.
+24 exp hydralazine/
+25 (dihydralazine or hydralazin$ or hydrallazin$ or hydralizine or hydrazinophtalazine or hydrazinophthalazine or hydrazinophtalizine or dralzine or hydralacin or hydrolazine or hypophthalin or hypoftalin or hydrazinophthalazine or idralazina or 1-hydrazinophthalazine or apressin or nepresol or apressoline or apresoline or apresolin or alphapress or alazine or idralazina or lopress or plethorit or praeparat).tw.
+26 or/21-25
+27 exp adrenergic beta-antagonists/
+28 (acebutolol or adimolol or afurolol or alprenolol or amosulalol or arotinolol or atenolol or befunolol or betaxolol or bevantolol or bisoprolol or bopindolol or bornaprolol or brefonalol or bucindolol or bucumolol or bufetolol or bufuralol or bunitrolol or bunolol or bupranolol or butofilolol or butoxamine or carazolol or carteolol or carvedilol or celiprolol or cetamolol or chlortalidone cloranolol or cyanoiodopindolol or cyanopindolol or deacetylmetipranolol or diacetolol or dihydroalprenolol or dilevalol or epanolol or esmolol or exaprolol or falintolol or flestolol or flusoxolol or hydroxybenzylpinodolol or hydroxycarteolol or hydroxymetoprolol or indenolol or iodocyanopindolol or iodopindolol or iprocrolol or isoxaprolol or labetalol or landiolol or levobunolol or levomoprolol or medroxalol or mepindolol or methylthiopropranolol or metipranolol or metoprolol or moprolol or nadolol or oxprenolol or penbutolol or pindolol or nadolol or nebivolol or nifenalol or nipradilol or oxprenolol or pafenolol or pamatolol or penbutolol or pindolol or practolol or primidolol or prizidilol or procinolol or pronetalol or propranolol or proxodolol or ridazolol or salcardolol or soquinolol or sotalol or spirendolol or talinolol or tertatolol or tienoxolol or tilisolol or timolol or tolamolol or toliprolol or tribendilol or xibenolol).tw.
+29 (beta adj2 (adrenergic? or antagonist? or block$ or receptor?).tw.).tw.
+30 or/27-29
+31 exp adrenergic alpha antagonists/
+32 (alfuzosin or bunazosin or doxazosin or metazosin or neldazosin or prazosin or silodosin or tamsulosin or terazosin or tiodazosin or trimazosin).tw.
+33 (adrenergic adj2 (alpha or antagonist?).tw.).tw.
+34 ((adrenergic or alpha or receptor?).tw. adj2 block$).tw.
+35 or/31-34
+36 exp thiazides/
+37 exp sodium potassium chloride symporter inhibitors/
+38 ((loop or ceiling).tw. adj diuretic?).tw.
+39 (amiloride or benzothiadiazine or bendroflumethiazide or bumetanide or chlorothiazide or cyclopenthiazide or furosemide or hydrochlorothiazide or hydroflumethiazide or methyclothiazide or metolazone or polythiazide or trichlormethiazide or veratide or thiazide?).tw.
+40 (chlorthalidone or chlortalidone or phthalamudine or chlorphthalidolone or oxodoline or thalitone or hygroton or indapamide or metindamide).tw.
+41 or/36-40
+42 hypertension/
+43 hypertens$.tw.
+44 ((high or elevat$ or rais$).tw. adj2 blood pressure).tw.
+45 or/42-44
+46 randomized controlled trial.pt.
+47 controlled clinical trial.pt.
+48 randomized.ab.
+49 placebo.ab.
+50 clinical trials as topic/
+51 randomly.ab.
+52 trial.ti.
+53 or/46-52
+54 (humans/ not animals/)
+55 Pregnancy/ or Hypertension, Pregnancy-Induced/ or Pregnancy Complications, Cardiovascular/ or exp Ocular Hypertension/
+56 (pregnancy-induced or ocular hypertens$ or preeclampsia or pre-eclampsia).ti.
+57 53 and 54 or 55 or 56
+58 16 and 45 and 57
+59 20 or 26 or 30 or 35 or 41
